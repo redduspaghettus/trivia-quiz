@@ -1,0 +1,233 @@
+{
+  "week": "2026-W10",
+  "generated": "2026-03-06T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 5,
+      "question": "What is the smallest bone in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Stapes",
+        "Malleus",
+        "Incus"
+      ],
+      "answer": "Stapes"
+    },
+    {
+      "id": 6,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jordan"
+    },
+    {
+      "id": 7,
+      "question": "How many strings does a standard ukulele have?",
+      "type": "multiple_choice",
+      "options": [
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 8,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 9,
+      "question": "What is the currency of Thailand?",
+      "type": "multiple_choice",
+      "options": [
+        "Ringgit",
+        "Baht",
+        "Dong"
+      ],
+      "answer": "Baht"
+    },
+    {
+      "id": 10,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Johannes Vermeer"
+    },
+    {
+      "id": 11,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 12,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 13,
+      "question": "Which country announced a major new investment in semiconductor manufacturing this week, aiming to reduce reliance on Asian chip suppliers?",
+      "type": "multiple_choice",
+      "options": [
+        "Germany",
+        "United States",
+        "United Kingdom"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "id": 14,
+      "question": "The UN Security Council held emergency sessions this week regarding escalating tensions in which region?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Middle East"
+    },
+    {
+      "id": 15,
+      "question": "Which global tech company faced renewed antitrust scrutiny from the European Commission this week over its app store practices?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "id": 16,
+      "question": "Which country held a closely watched general election this first week of March 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Colombia"
+    },
+    {
+      "id": 17,
+      "question": "International Women's Day falls on March 8. What is the UN's theme for International Women's Day 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Accelerate Action"
+    },
+    {
+      "id": 18,
+      "question": "World leaders gathered this week to discuss a new framework agreement on what global issue?",
+      "type": "multiple_choice",
+      "options": [
+        "Plastic pollution",
+        "Nuclear disarmament",
+        "Space debris"
+      ],
+      "answer": "Plastic pollution"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "The Australian government announced new reforms this week targeting which sector of the economy?",
+      "type": "multiple_choice",
+      "options": [
+        "Housing",
+        "Mining",
+        "Agriculture"
+      ],
+      "answer": "Housing"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian city is set to host the 2032 Summer Olympic Games?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian animal appears on the Australian 50-cent coin alongside the kangaroo?",
+      "type": "multiple_choice",
+      "options": [
+        "Koala",
+        "Emu",
+        "Platypus"
+      ],
+      "answer": "Emu"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of the famous open-air market in Melbourne that has been operating since 1878?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne train station is the busiest in Australia by patronage?",
+      "type": "multiple_choice",
+      "options": [
+        "Flinders Street",
+        "Southern Cross",
+        "Melbourne Central"
+      ],
+      "answer": "Flinders Street"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River, which flows through Melbourne, empties into which body of water?",
+      "type": "multiple_choice",
+      "options": [
+        "Bass Strait",
+        "Port Phillip Bay",
+        "Tasman Sea"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
