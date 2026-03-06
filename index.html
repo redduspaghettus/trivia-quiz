@@ -119,10 +119,12 @@
 
     // ---- Utilities ----
     function getWeekLabel(date) {
-      const d = new Date(date);
-      const yearStart = new Date(d.getFullYear(), 0, 1);
-      const week = Math.ceil(((d - yearStart) / 86400000 + yearStart.getDay() + 1) / 7);
-      return `${d.getFullYear()}-W${String(week).padStart(2, '0')}`;
+      const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+      const dayOfWeek = d.getUTCDay() || 7;
+      d.setUTCDate(d.getUTCDate() + 4 - dayOfWeek);
+      const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+      const week = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+      return `${d.getUTCFullYear()}-W${String(week).padStart(2, '0')}`;
     }
 
     function normalise(str) {
@@ -131,6 +133,15 @@
 
     function isCorrect(userAnswer, correctAnswer) {
       return normalise(userAnswer) === normalise(correctAnswer);
+    }
+
+    function esc(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
     }
 
     // ---- Quiz file discovery ----
@@ -159,18 +170,18 @@
       let optionsHtml = '';
       if (q.type === 'multiple_choice') {
         optionsHtml = `<div class="options" id="options">
-          ${q.options.map(o => `<button class="option-btn" onclick="selectOption(this, '${o.replace(/'/g, "\\'")}', '${q.answer.replace(/'/g, "\\'")}')">${o}</button>`).join('')}
+          ${q.options.map(o => `<button class="option-btn" onclick="selectOption(this, '${esc(o)}', '${esc(q.answer)}')">${esc(o)}</button>`).join('')}
         </div>`;
       } else {
-        optionsHtml = `<input class="text-input" id="text-answer" type="text" placeholder="Type your answer..." onkeydown="if(event.key==='Enter') submitText('${q.answer.replace(/'/g, "\\'")}')">`;
+        optionsHtml = `<input class="text-input" id="text-answer" type="text" placeholder="Type your answer..." onkeydown="if(event.key==='Enter') submitText('${esc(q.answer)}')">`;
       }
 
       card.innerHTML = `
         <div class="progress">Question ${current + 1} of ${quiz.questions.length}</div>
-        <div class="question">${current + 1}. ${q.question}</div>
+        <div class="question">${current + 1}. ${esc(q.question)}</div>
         ${optionsHtml}
         <div class="feedback" id="feedback"></div>
-        ${q.type === 'open_text' ? `<button class="btn" onclick="submitText('${q.answer.replace(/'/g, "\\'")}')" >Submit</button>` : ''}
+        ${q.type === 'open_text' ? `<button class="btn" onclick="submitText('${esc(q.answer)}')">Submit</button>` : ''}
         <div class="score-display">Score: ${score} / ${current}</div>
       `;
 
@@ -210,7 +221,7 @@
       fb.className = `feedback ${correct ? 'correct' : 'wrong'}`;
       fb.innerHTML = correct
         ? 'Correct!'
-        : `Wrong — the answer was: <strong>${answer}</strong>`;
+        : `Wrong — the answer was: <strong>${esc(answer)}</strong>`;
 
       const nextBtn = document.createElement('button');
       nextBtn.className = 'btn';

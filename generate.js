@@ -4,10 +4,12 @@ import { buildPrompt } from './src/prompt.js';
 import { validateQuiz } from './src/schema.js';
 
 function getWeekLabel(date) {
-  const d = new Date(date);
-  const yearStart = new Date(d.getFullYear(), 0, 1);
-  const week = Math.ceil(((d - yearStart) / 86400000 + yearStart.getDay() + 1) / 7);
-  return `${d.getFullYear()}-W${String(week).padStart(2, '0')}`;
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayOfWeek = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayOfWeek);
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  const week = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+  return `${d.getUTCFullYear()}-W${String(week).padStart(2, '0')}`;
 }
 
 async function main() {
