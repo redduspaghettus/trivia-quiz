@@ -26,7 +26,7 @@ async function main() {
     messages: [{ role: 'user', content: buildPrompt(week) }]
   });
 
-  const raw = message.content[0].text.trim();
+  const raw = message.content[0].text.trim().replace(/^```json\s*/i, '').replace(/```\s*$/, '');
   const quiz = JSON.parse(raw);
   validateQuiz(quiz);
 
