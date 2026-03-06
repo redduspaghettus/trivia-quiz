@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Trivia Quiz</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, serif;
+      background: #f5f0e8;
+      color: #2c2c2c;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem;
+    }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #666; font-style: italic; margin-bottom: 2rem; }
+    .card {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 2rem;
+      max-width: 640px;
+      width: 100%;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .progress { color: #888; font-size: 0.9rem; margin-bottom: 1rem; }
+    .question { font-size: 1.2rem; font-weight: bold; margin-bottom: 1.5rem; line-height: 1.4; }
+    .options { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1.5rem; }
+    .option-btn {
+      padding: 0.75rem 1rem;
+      border: 2px solid #ccc;
+      border-radius: 6px;
+      background: white;
+      cursor: pointer;
+      font-size: 1rem;
+      font-family: Georgia, serif;
+      text-align: left;
+      transition: border-color 0.15s;
+    }
+    .option-btn:hover { border-color: #666; }
+    .option-btn.selected { border-color: #3366cc; background: #eef2ff; }
+    .option-btn.correct { border-color: #2a9d2a; background: #efffef; }
+    .option-btn.wrong { border-color: #cc3333; background: #fff0f0; }
+    .text-input {
+      width: 100%;
+      padding: 0.75rem;
+      font-size: 1rem;
+      font-family: Georgia, serif;
+      border: 2px solid #ccc;
+      border-radius: 6px;
+      margin-bottom: 1.5rem;
+    }
+    .text-input:focus { outline: none; border-color: #3366cc; }
+    .feedback {
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      font-weight: bold;
+      display: none;
+    }
+    .feedback.correct { background: #efffef; color: #2a9d2a; display: block; }
+    .feedback.wrong { background: #fff0f0; color: #cc3333; display: block; }
+    .btn {
+      padding: 0.75rem 1.5rem;
+      background: #2c2c2c;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-family: Georgia, serif;
+      cursor: pointer;
+    }
+    .btn:hover { background: #444; }
+    .btn:disabled { background: #aaa; cursor: default; }
+    .score-display { font-size: 1rem; color: #555; margin-top: 1rem; text-align: right; }
+    .final-score { text-align: center; padding: 1rem 0; }
+    .final-score h2 { font-size: 2rem; margin-bottom: 0.5rem; }
+    .final-score p { color: #555; margin-bottom: 1.5rem; }
+    .archive { max-width: 640px; width: 100%; margin-top: 2rem; }
+    .archive h2 { font-size: 1.1rem; margin-bottom: 0.75rem; color: #555; }
+    .archive-list { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-list a {
+      padding: 0.4rem 0.8rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      text-decoration: none;
+      color: #333;
+      font-size: 0.9rem;
+      background: white;
+    }
+    .archive-list a:hover { background: #f0f0f0; }
+    .archive-list a.active { border-color: #3366cc; color: #3366cc; font-weight: bold; }
+    .error { color: #cc3333; text-align: center; padding: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>THE QUIZ</h1>
+  <p class="subtitle">Weekly General Knowledge</p>
+
+  <div class="card" id="quiz-card">
+    <p style="text-align:center; color:#888;">Loading quiz...</p>
+  </div>
+
+  <div class="archive" id="archive-section" style="display:none;">
+    <h2>Past Quizzes</h2>
+    <ul class="archive-list" id="archive-list"></ul>
+  </div>
+
+  <script>
+    // ---- State ----
+    let quiz = null;
+    let current = 0;
+    let score = 0;
+    let answered = false;
+
+    // ---- Utilities ----
+    function getWeekLabel(date) {
+      const d = new Date(date);
+      const yearStart = new Date(d.getFullYear(), 0, 1);
+      const week = Math.ceil(((d - yearStart) / 86400000 + yearStart.getDay() + 1) / 7);
+      return `${d.getFullYear()}-W${String(week).padStart(2, '0')}`;
+    }
+
+    function normalise(str) {
+      return str.trim().toLowerCase().replace(/[^a-z0-9]/g, '');
+    }
+
+    function isCorrect(userAnswer, correctAnswer) {
+      return normalise(userAnswer) === normalise(correctAnswer);
+    }
+
+    // ---- Quiz file discovery ----
+    async function loadManifest() {
+      try {
+        const r = await fetch('quizzes/manifest.json');
+        if (!r.ok) return [];
+        return await r.json();
+      } catch {
+        return [];
+      }
+    }
+
+    async function loadQuiz(week) {
+      const r = await fetch(`quizzes/${week}.json`);
+      if (!r.ok) throw new Error(`Quiz not found: ${week}`);
+      return await r.json();
+    }
+
+    // ---- Render ----
+    function renderQuestion() {
+      const card = document.getElementById('quiz-card');
+      const q = quiz.questions[current];
+      answered = false;
+
+      let optionsHtml = '';
+      if (q.type === 'multiple_choice') {
+        optionsHtml = `<div class="options" id="options">
+          ${q.options.map(o => `<button class="option-btn" onclick="selectOption(this, '${o.replace(/'/g, "\\'")}', '${q.answer.replace(/'/g, "\\'")}')">${o}</button>`).join('')}
+        </div>`;
+      } else {
+        optionsHtml = `<input class="text-input" id="text-answer" type="text" placeholder="Type your answer..." onkeydown="if(event.key==='Enter') submitText('${q.answer.replace(/'/g, "\\'")}')">`;
+      }
+
+      card.innerHTML = `
+        <div class="progress">Question ${current + 1} of ${quiz.questions.length}</div>
+        <div class="question">${current + 1}. ${q.question}</div>
+        ${optionsHtml}
+        <div class="feedback" id="feedback"></div>
+        ${q.type === 'open_text' ? `<button class="btn" onclick="submitText('${q.answer.replace(/'/g, "\\'")}')" >Submit</button>` : ''}
+        <div class="score-display">Score: ${score} / ${current}</div>
+      `;
+
+      if (q.type === 'open_text') {
+        document.getElementById('text-answer').focus();
+      }
+    }
+
+    function selectOption(btn, chosen, answer) {
+      if (answered) return;
+      answered = true;
+      const correct = isCorrect(chosen, answer);
+      if (correct) score++;
+
+      document.querySelectorAll('.option-btn').forEach(b => {
+        if (isCorrect(b.textContent, answer)) b.classList.add('correct');
+        else if (b === btn && !correct) b.classList.add('wrong');
+      });
+
+      showFeedback(correct, answer);
+    }
+
+    function submitText(answer) {
+      if (answered) return;
+      const input = document.getElementById('text-answer');
+      const userAnswer = input.value;
+      if (!userAnswer.trim()) return;
+      answered = true;
+      const correct = isCorrect(userAnswer, answer);
+      if (correct) score++;
+      input.disabled = true;
+      showFeedback(correct, answer);
+    }
+
+    function showFeedback(correct, answer) {
+      const fb = document.getElementById('feedback');
+      fb.className = `feedback ${correct ? 'correct' : 'wrong'}`;
+      fb.innerHTML = correct
+        ? 'Correct!'
+        : `Wrong — the answer was: <strong>${answer}</strong>`;
+
+      const nextBtn = document.createElement('button');
+      nextBtn.className = 'btn';
+      nextBtn.style.marginTop = '1rem';
+      nextBtn.style.display = 'block';
+      nextBtn.textContent = current + 1 < quiz.questions.length ? 'Next Question' : 'See Results';
+      nextBtn.onclick = () => {
+        current++;
+        if (current < quiz.questions.length) {
+          renderQuestion();
+        } else {
+          renderFinal();
+        }
+      };
+      document.getElementById('quiz-card').appendChild(nextBtn);
+    }
+
+    function renderFinal() {
+      const card = document.getElementById('quiz-card');
+      const pct = Math.round((score / quiz.questions.length) * 100);
+      card.innerHTML = `
+        <div class="final-score">
+          <h2>${score} / ${quiz.questions.length}</h2>
+          <p>${pct}% — ${pct >= 80 ? 'Excellent!' : pct >= 60 ? 'Well done!' : pct >= 40 ? 'Not bad!' : 'Better luck next week!'}</p>
+          <button class="btn" onclick="restartQuiz()">Play Again</button>
+        </div>
+      `;
+    }
+
+    function restartQuiz() {
+      current = 0;
+      score = 0;
+      renderQuestion();
+    }
+
+    // ---- Archive ----
+    function renderArchive(weeks, activeWeek) {
+      const section = document.getElementById('archive-section');
+      const list = document.getElementById('archive-list');
+      if (weeks.length <= 1) return;
+      section.style.display = 'block';
+      list.innerHTML = weeks.map(w =>
+        `<li><a href="#" class="${w === activeWeek ? 'active' : ''}" onclick="switchQuiz('${w}'); return false;">${w}</a></li>`
+      ).join('');
+    }
+
+    async function switchQuiz(week) {
+      const card = document.getElementById('quiz-card');
+      card.innerHTML = '<p style="text-align:center;color:#888;">Loading...</p>';
+      try {
+        quiz = await loadQuiz(week);
+        current = 0;
+        score = 0;
+        renderQuestion();
+        document.querySelectorAll('.archive-list a').forEach(a => {
+          a.classList.toggle('active', a.textContent === week);
+        });
+      } catch (e) {
+        card.innerHTML = `<div class="error">Failed to load quiz: ${e.message}</div>`;
+      }
+    }
+
+    // ---- Init ----
+    async function init() {
+      const card = document.getElementById('quiz-card');
+      try {
+        const weeks = await loadManifest();
+        const thisWeek = getWeekLabel(new Date());
+        const targetWeek = weeks.includes(thisWeek) ? thisWeek : (weeks[0] || thisWeek);
+
+        quiz = await loadQuiz(targetWeek);
+        renderQuestion();
+        renderArchive(weeks, targetWeek);
+      } catch (e) {
+        card.innerHTML = `<div class="error">No quiz available yet. Check back on Friday!<br><small>${e.message}</small></div>`;
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
