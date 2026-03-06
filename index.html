@@ -14,95 +14,167 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 2rem 1rem;
+      padding: 2rem 1rem 4rem;
     }
     h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-    .subtitle { color: #666; font-style: italic; margin-bottom: 2rem; }
-    .card {
+    .subtitle { color: #666; font-style: italic; margin-bottom: 1rem; }
+
+    /* Sticky score bar */
+    .score-bar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: #2c2c2c;
+      color: white;
+      width: 100%;
+      max-width: 680px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.75rem 1.25rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    .score-bar .score-label { font-size: 1.1rem; font-weight: bold; }
+    .score-bar .score-count { font-size: 1.1rem; }
+    .reset-btn {
+      padding: 0.4rem 1rem;
+      background: transparent;
+      color: #ccc;
+      border: 1px solid #666;
+      border-radius: 5px;
+      font-size: 0.85rem;
+      font-family: Georgia, serif;
+      cursor: pointer;
+    }
+    .reset-btn:hover { background: #444; color: white; }
+
+    /* Question cards */
+    .questions-list {
+      width: 100%;
+      max-width: 680px;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .q-card {
       background: white;
       border: 1px solid #ddd;
       border-radius: 8px;
-      padding: 2rem;
-      max-width: 640px;
-      width: 100%;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+      transition: border-color 0.2s;
     }
-    .progress { color: #888; font-size: 0.9rem; margin-bottom: 1rem; }
-    .question { font-size: 1.2rem; font-weight: bold; margin-bottom: 1.5rem; line-height: 1.4; }
-    .options { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1.5rem; }
+    .q-card.is-correct { border-left: 4px solid #2a9d2a; }
+    .q-card.is-wrong { border-left: 4px solid #cc3333; }
+
+    .q-number { font-size: 0.8rem; color: #999; margin-bottom: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .q-text { font-size: 1.1rem; font-weight: bold; line-height: 1.4; margin-bottom: 1rem; }
+
+    /* Multiple choice */
+    .options { display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 0.75rem; }
     .option-btn {
-      padding: 0.75rem 1rem;
+      padding: 0.6rem 1rem;
       border: 2px solid #ccc;
       border-radius: 6px;
       background: white;
       cursor: pointer;
-      font-size: 1rem;
+      font-size: 0.95rem;
       font-family: Georgia, serif;
       text-align: left;
-      transition: border-color 0.15s;
+      transition: border-color 0.15s, background 0.15s;
     }
-    .option-btn:hover { border-color: #666; }
-    .option-btn.selected { border-color: #3366cc; background: #eef2ff; }
+    .option-btn:hover:not(:disabled) { border-color: #666; }
     .option-btn.correct { border-color: #2a9d2a; background: #efffef; }
     .option-btn.wrong { border-color: #cc3333; background: #fff0f0; }
+    .option-btn:disabled { cursor: default; }
+
+    /* Text input */
+    .answer-row { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; }
     .text-input {
-      width: 100%;
-      padding: 0.75rem;
-      font-size: 1rem;
+      flex: 1;
+      padding: 0.6rem 0.75rem;
+      font-size: 0.95rem;
       font-family: Georgia, serif;
       border: 2px solid #ccc;
       border-radius: 6px;
-      margin-bottom: 1.5rem;
     }
     .text-input:focus { outline: none; border-color: #3366cc; }
-    .feedback {
-      padding: 0.75rem 1rem;
-      border-radius: 6px;
-      margin-bottom: 1rem;
-      font-weight: bold;
-      display: none;
-    }
-    .feedback.correct { background: #efffef; color: #2a9d2a; display: block; }
-    .feedback.wrong { background: #fff0f0; color: #cc3333; display: block; }
-    .btn {
-      padding: 0.75rem 1.5rem;
+    .text-input:disabled { background: #f9f9f9; color: #555; }
+    .submit-btn {
+      padding: 0.6rem 1.1rem;
       background: #2c2c2c;
       color: white;
       border: none;
       border-radius: 6px;
-      font-size: 1rem;
+      font-size: 0.95rem;
       font-family: Georgia, serif;
       cursor: pointer;
+      white-space: nowrap;
     }
-    .btn:hover { background: #444; }
-    .btn:disabled { background: #aaa; cursor: default; }
-    .score-display { font-size: 1rem; color: #555; margin-top: 1rem; text-align: right; }
-    .final-score { text-align: center; padding: 1rem 0; }
-    .final-score h2 { font-size: 2rem; margin-bottom: 0.5rem; }
-    .final-score p { color: #555; margin-bottom: 1.5rem; }
-    .archive { max-width: 640px; width: 100%; margin-top: 2rem; }
-    .archive h2 { font-size: 1.1rem; margin-bottom: 0.75rem; color: #555; }
+    .submit-btn:hover { background: #444; }
+
+    /* Feedback row */
+    .feedback-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.25rem;
+    }
+    .feedback-text {
+      font-size: 0.9rem;
+      font-weight: bold;
+    }
+    .feedback-text.correct { color: #2a9d2a; }
+    .feedback-text.wrong { color: #cc3333; }
+    .override-btn {
+      padding: 0.3rem 0.75rem;
+      font-size: 0.8rem;
+      font-family: Georgia, serif;
+      border-radius: 5px;
+      cursor: pointer;
+      border: 1px solid;
+    }
+    .override-btn.mark-correct { border-color: #2a9d2a; color: #2a9d2a; background: white; }
+    .override-btn.mark-correct:hover { background: #efffef; }
+    .override-btn.mark-wrong { border-color: #cc3333; color: #cc3333; background: white; }
+    .override-btn.mark-wrong:hover { background: #fff0f0; }
+
+    /* Archive */
+    .archive { max-width: 680px; width: 100%; margin-top: 2rem; }
+    .archive h2 { font-size: 1rem; margin-bottom: 0.75rem; color: #666; }
     .archive-list { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem; }
     .archive-list a {
-      padding: 0.4rem 0.8rem;
+      padding: 0.35rem 0.75rem;
       border: 1px solid #ccc;
       border-radius: 4px;
       text-decoration: none;
       color: #333;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       background: white;
     }
     .archive-list a:hover { background: #f0f0f0; }
     .archive-list a.active { border-color: #3366cc; color: #3366cc; font-weight: bold; }
+
     .error { color: #cc3333; text-align: center; padding: 2rem; }
+    .loading { text-align: center; color: #888; padding: 3rem; }
   </style>
 </head>
 <body>
   <h1>THE QUIZ</h1>
-  <p class="subtitle">Weekly General Knowledge</p>
+  <p class="subtitle" id="subtitle">Weekly General Knowledge</p>
 
-  <div class="card" id="quiz-card">
-    <p style="text-align:center; color:#888;">Loading quiz...</p>
+  <div class="score-bar" id="score-bar" style="display:none;">
+    <span class="score-label">Score</span>
+    <span class="score-count" id="score-count">0 / 0</span>
+    <button class="reset-btn" onclick="resetQuiz()">Reset</button>
+  </div>
+
+  <div class="questions-list" id="questions-list">
+    <p class="loading">Loading quiz...</p>
   </div>
 
   <div class="archive" id="archive-section" style="display:none;">
@@ -113,9 +185,8 @@
   <script>
     // ---- State ----
     let quiz = null;
-    let current = 0;
-    let score = 0;
-    let answered = false;
+    // answers[i] = null | { correct: bool, overridden: bool }
+    let answers = [];
 
     // ---- Utilities ----
     function getWeekLabel(date) {
@@ -144,7 +215,124 @@
         .replace(/'/g, '&#39;');
     }
 
-    // ---- Quiz file discovery ----
+    // ---- Score ----
+    function updateScoreBar() {
+      const answered = answers.filter(a => a !== null).length;
+      const correct = answers.filter(a => a && a.correct).length;
+      document.getElementById('score-count').textContent = `${correct} / ${answered}`;
+    }
+
+    // ---- Submit / Override ----
+    function submitAnswer(idx, correct) {
+      answers[idx] = { correct };
+      updateScoreBar();
+      refreshCard(idx);
+    }
+
+    function submitMC(idx, chosen, answer) {
+      if (answers[idx] !== null) return;
+      submitAnswer(idx, isCorrect(chosen, answer));
+    }
+
+    function submitText(idx, answer) {
+      const input = document.getElementById(`input-${idx}`);
+      if (!input || !input.value.trim()) return;
+      if (answers[idx] !== null) return;
+      input.disabled = true;
+      submitAnswer(idx, isCorrect(input.value, answer));
+    }
+
+    function overrideAnswer(idx, markCorrect) {
+      if (answers[idx] === null) return;
+      answers[idx] = { correct: markCorrect, overridden: true };
+      updateScoreBar();
+      refreshCard(idx);
+    }
+
+    // ---- Render a single card ----
+    function refreshCard(idx) {
+      const q = quiz.questions[idx];
+      const a = answers[idx];
+      const card = document.getElementById(`card-${idx}`);
+      if (!card) return;
+
+      card.className = 'q-card' + (a === null ? '' : a.correct ? ' is-correct' : ' is-wrong');
+
+      // Input area
+      const inputArea = card.querySelector('.input-area');
+      if (a !== null) {
+        // Answered — lock inputs
+        if (q.type === 'multiple_choice') {
+          inputArea.querySelectorAll('.option-btn').forEach(btn => {
+            btn.disabled = true;
+            if (isCorrect(btn.textContent, q.answer)) btn.classList.add('correct');
+          });
+        } else {
+          const input = inputArea.querySelector('.text-input');
+          if (input) input.disabled = true;
+          const submitBtn = inputArea.querySelector('.submit-btn');
+          if (submitBtn) submitBtn.disabled = true;
+        }
+
+        // Feedback row
+        let feedbackRow = card.querySelector('.feedback-row');
+        if (!feedbackRow) {
+          feedbackRow = document.createElement('div');
+          feedbackRow.className = 'feedback-row';
+          card.appendChild(feedbackRow);
+        }
+
+        const overrideLabel = a.correct ? 'Mark as wrong' : 'Mark as correct';
+        const overrideClass = a.correct ? 'mark-wrong' : 'mark-correct';
+        feedbackRow.innerHTML = `
+          <span class="feedback-text ${a.correct ? 'correct' : 'wrong'}">
+            ${a.correct ? (a.overridden ? 'Marked correct' : 'Correct!') : (a.overridden ? 'Marked wrong' : `Wrong — answer: <strong>${esc(q.answer)}</strong>`)}
+          </span>
+          <button class="override-btn ${overrideClass}" onclick="overrideAnswer(${idx}, ${!a.correct})">
+            ${esc(overrideLabel)}
+          </button>
+        `;
+      }
+    }
+
+    // ---- Render all questions ----
+    function renderQuiz() {
+      const list = document.getElementById('questions-list');
+      answers = new Array(quiz.questions.length).fill(null);
+
+      list.innerHTML = quiz.questions.map((q, idx) => {
+        let inputHtml = '';
+        if (q.type === 'multiple_choice') {
+          inputHtml = `<div class="options">
+            ${q.options.map(o => `<button class="option-btn" onclick="submitMC(${idx}, '${esc(o)}', '${esc(q.answer)}')">${esc(o)}</button>`).join('')}
+          </div>`;
+        } else {
+          inputHtml = `<div class="answer-row">
+            <input class="text-input" id="input-${idx}" type="text" placeholder="Type your answer..."
+              onkeydown="if(event.key==='Enter') submitText(${idx}, '${esc(q.answer)}')">
+            <button class="submit-btn" onclick="submitText(${idx}, '${esc(q.answer)}')">Submit</button>
+          </div>`;
+        }
+
+        return `<div class="q-card" id="card-${idx}">
+          <div class="q-number">Question ${idx + 1}</div>
+          <div class="q-text">${esc(q.question)}</div>
+          <div class="input-area">${inputHtml}</div>
+        </div>`;
+      }).join('');
+
+      document.getElementById('score-bar').style.display = 'flex';
+      updateScoreBar();
+    }
+
+    // ---- Reset ----
+    function resetQuiz() {
+      answers = new Array(quiz.questions.length).fill(null);
+      updateScoreBar();
+      renderQuiz();
+    }
+
+    // ---- Data loading ----
     async function loadManifest() {
       try {
         const r = await fetch('quizzes/manifest.json');
@@ -161,102 +349,6 @@
       return await r.json();
     }
 
-    // ---- Render ----
-    function renderQuestion() {
-      const card = document.getElementById('quiz-card');
-      const q = quiz.questions[current];
-      answered = false;
-
-      let optionsHtml = '';
-      if (q.type === 'multiple_choice') {
-        optionsHtml = `<div class="options" id="options">
-          ${q.options.map(o => `<button class="option-btn" onclick="selectOption(this, '${esc(o)}', '${esc(q.answer)}')">${esc(o)}</button>`).join('')}
-        </div>`;
-      } else {
-        optionsHtml = `<input class="text-input" id="text-answer" type="text" placeholder="Type your answer..." onkeydown="if(event.key==='Enter') submitText('${esc(q.answer)}')">`;
-      }
-
-      card.innerHTML = `
-        <div class="progress">Question ${current + 1} of ${quiz.questions.length}</div>
-        <div class="question">${current + 1}. ${esc(q.question)}</div>
-        ${optionsHtml}
-        <div class="feedback" id="feedback"></div>
-        ${q.type === 'open_text' ? `<button class="btn" onclick="submitText('${esc(q.answer)}')">Submit</button>` : ''}
-        <div class="score-display">Score: ${score} / ${current}</div>
-      `;
-
-      if (q.type === 'open_text') {
-        document.getElementById('text-answer').focus();
-      }
-    }
-
-    function selectOption(btn, chosen, answer) {
-      if (answered) return;
-      answered = true;
-      const correct = isCorrect(chosen, answer);
-      if (correct) score++;
-
-      document.querySelectorAll('.option-btn').forEach(b => {
-        if (isCorrect(b.textContent, answer)) b.classList.add('correct');
-        else if (b === btn && !correct) b.classList.add('wrong');
-      });
-
-      showFeedback(correct, answer);
-    }
-
-    function submitText(answer) {
-      if (answered) return;
-      const input = document.getElementById('text-answer');
-      const userAnswer = input.value;
-      if (!userAnswer.trim()) return;
-      answered = true;
-      const correct = isCorrect(userAnswer, answer);
-      if (correct) score++;
-      input.disabled = true;
-      showFeedback(correct, answer);
-    }
-
-    function showFeedback(correct, answer) {
-      const fb = document.getElementById('feedback');
-      fb.className = `feedback ${correct ? 'correct' : 'wrong'}`;
-      fb.innerHTML = correct
-        ? 'Correct!'
-        : `Wrong — the answer was: <strong>${esc(answer)}</strong>`;
-
-      const nextBtn = document.createElement('button');
-      nextBtn.className = 'btn';
-      nextBtn.style.marginTop = '1rem';
-      nextBtn.style.display = 'block';
-      nextBtn.textContent = current + 1 < quiz.questions.length ? 'Next Question' : 'See Results';
-      nextBtn.onclick = () => {
-        current++;
-        if (current < quiz.questions.length) {
-          renderQuestion();
-        } else {
-          renderFinal();
-        }
-      };
-      document.getElementById('quiz-card').appendChild(nextBtn);
-    }
-
-    function renderFinal() {
-      const card = document.getElementById('quiz-card');
-      const pct = Math.round((score / quiz.questions.length) * 100);
-      card.innerHTML = `
-        <div class="final-score">
-          <h2>${score} / ${quiz.questions.length}</h2>
-          <p>${pct}% — ${pct >= 80 ? 'Excellent!' : pct >= 60 ? 'Well done!' : pct >= 40 ? 'Not bad!' : 'Better luck next week!'}</p>
-          <button class="btn" onclick="restartQuiz()">Play Again</button>
-        </div>
-      `;
-    }
-
-    function restartQuiz() {
-      current = 0;
-      score = 0;
-      renderQuestion();
-    }
-
     // ---- Archive ----
     function renderArchive(weeks, activeWeek) {
       const section = document.getElementById('archive-section');
@@ -269,34 +361,32 @@
     }
 
     async function switchQuiz(week) {
-      const card = document.getElementById('quiz-card');
-      card.innerHTML = '<p style="text-align:center;color:#888;">Loading...</p>';
+      document.getElementById('questions-list').innerHTML = '<p class="loading">Loading...</p>';
+      document.getElementById('score-bar').style.display = 'none';
       try {
         quiz = await loadQuiz(week);
-        current = 0;
-        score = 0;
-        renderQuestion();
+        renderQuiz();
         document.querySelectorAll('.archive-list a').forEach(a => {
           a.classList.toggle('active', a.textContent === week);
         });
       } catch (e) {
-        card.innerHTML = `<div class="error">Failed to load quiz: ${e.message}</div>`;
+        document.getElementById('questions-list').innerHTML = `<div class="error">Failed to load quiz: ${esc(e.message)}</div>`;
       }
     }
 
     // ---- Init ----
     async function init() {
-      const card = document.getElementById('quiz-card');
       try {
         const weeks = await loadManifest();
         const thisWeek = getWeekLabel(new Date());
         const targetWeek = weeks.includes(thisWeek) ? thisWeek : (weeks[0] || thisWeek);
-
         quiz = await loadQuiz(targetWeek);
-        renderQuestion();
+        document.getElementById('subtitle').textContent = `Week ${targetWeek}`;
+        renderQuiz();
         renderArchive(weeks, targetWeek);
       } catch (e) {
-        card.innerHTML = `<div class="error">No quiz available yet. Check back on Friday!<br><small>${e.message}</small></div>`;
+        document.getElementById('questions-list').innerHTML =
+          `<div class="error">No quiz available yet. Check back on Friday!<br><small>${esc(e.message)}</small></div>`;
       }
     }
 
