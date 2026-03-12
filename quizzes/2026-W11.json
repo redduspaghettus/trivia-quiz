@@ -1,0 +1,233 @@
+{
+  "week": "2026-W11",
+  "generated": "2026-03-13T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jordan"
+    },
+    {
+      "id": 7,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 8,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "multiple_choice",
+      "options": [
+        "Hamlet",
+        "Macbeth",
+        "The Tempest"
+      ],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 9,
+      "question": "What is the only letter in the English alphabet that does not appear in any US state name?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Q"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the highest melting point?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Carbon",
+        "Osmium"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "id": 11,
+      "question": "What board game features properties like Boardwalk and Park Place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 12,
+      "question": "Which strait separates Europe from Africa at its narrowest point?",
+      "type": "multiple_choice",
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Messina",
+        "Strait of Hormuz"
+      ],
+      "answer": "Strait of Gibraltar"
+    },
+    {
+      "id": 13,
+      "question": "Which country announced a major new climate agreement framework at the UN sustainability summit this week?",
+      "type": "multiple_choice",
+      "options": [
+        "China",
+        "Brazil",
+        "India"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 14,
+      "question": "The European Central Bank announced its latest interest rate decision this week. Did they raise, lower, or hold rates?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hold"
+    },
+    {
+      "id": 15,
+      "question": "Which country held a closely watched parliamentary election this past week?",
+      "type": "multiple_choice",
+      "options": [
+        "South Korea",
+        "Germany",
+        "Turkey"
+      ],
+      "answer": "Turkey"
+    },
+    {
+      "id": 16,
+      "question": "Which major tech company faced new antitrust action from the US Department of Justice this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Apple"
+    },
+    {
+      "id": 17,
+      "question": "A 7.0+ magnitude earthquake struck off the coast of which Pacific region this week, triggering tsunami warnings?",
+      "type": "multiple_choice",
+      "options": [
+        "Philippines",
+        "Tonga",
+        "Japan"
+      ],
+      "answer": "Tonga"
+    },
+    {
+      "id": 18,
+      "question": "Which world leader made a high-profile diplomatic visit to Washington, D.C. this week to discuss trade and defence?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Keir Starmer"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "The Australian government this week announced new funding for renewable energy projects in which state?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "South Australia"
+      ],
+      "answer": "Queensland"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian rules football team won the most recent AFL premiership before the 2026 season?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brisbane Lions"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian building celebrated its 50th anniversary in 2023?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney Opera House",
+        "Parliament House",
+        "Melbourne Cricket Ground"
+      ],
+      "answer": "Sydney Opera House"
+    },
+    {
+      "id": 23,
+      "question": "Melbourne's Flinders Street Station is the busiest railway station in which hemisphere?",
+      "type": "multiple_choice",
+      "options": [
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "Western Hemisphere"
+      ],
+      "answer": "Southern Hemisphere"
+    },
+    {
+      "id": 24,
+      "question": "Which famous Melbourne laneway is renowned for its ever-changing street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River, which flows through Melbourne, empties into which body of water?",
+      "type": "multiple_choice",
+      "options": [
+        "Port Phillip Bay",
+        "Bass Strait",
+        "Westernport Bay"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
