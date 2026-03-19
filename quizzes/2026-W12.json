@@ -1,0 +1,233 @@
+{
+  "week": "2026-W12",
+  "generated": "2026-03-20T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "open_text",
+      "options": [],
+      "answer": "France"
+    },
+    {
+      "id": 7,
+      "question": "What musical key has no sharps or flats?",
+      "type": "open_text",
+      "options": [],
+      "answer": "C major"
+    },
+    {
+      "id": 8,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "multiple_choice",
+      "options": [
+        "Zeus",
+        "Poseidon",
+        "Hades"
+      ],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 9,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 11,
+      "question": "What is the smallest prime number?",
+      "type": "open_text",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "id": 12,
+      "question": "Which famous artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 13,
+      "question": "Which international organization held its annual spring meetings this week, focusing on global debt restructuring for developing nations?",
+      "type": "multiple_choice",
+      "options": [
+        "World Bank & IMF",
+        "United Nations",
+        "World Trade Organization"
+      ],
+      "answer": "World Bank & IMF"
+    },
+    {
+      "id": 14,
+      "question": "Which European country's parliament faced a no-confidence vote this week amid economic reform disputes?",
+      "type": "open_text",
+      "options": [],
+      "answer": "France"
+    },
+    {
+      "id": 15,
+      "question": "The UN Security Council debated new sanctions this week related to ongoing tensions in which region?",
+      "type": "multiple_choice",
+      "options": [
+        "Korean Peninsula",
+        "Middle East",
+        "Horn of Africa"
+      ],
+      "answer": "Middle East"
+    },
+    {
+      "id": 16,
+      "question": "Which country launched a new crewed space mission this week, marking its longest planned duration in orbit?",
+      "type": "multiple_choice",
+      "options": [
+        "China",
+        "India",
+        "United States"
+      ],
+      "answer": "China"
+    },
+    {
+      "id": 17,
+      "question": "What major global climate summit preparatory meeting took place this week ahead of COP31?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Pre-COP31 ministerial meeting"
+    },
+    {
+      "id": 18,
+      "question": "Which tech company announced a landmark AI regulation agreement with the EU this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the indigenous Australian instrument known for its deep, droning sound?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Didgeridoo"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory recently announced a major investment in renewable hydrogen production this month?",
+      "type": "multiple_choice",
+      "options": [
+        "Western Australia",
+        "Queensland",
+        "South Australia"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 21,
+      "question": "How many states and territories make up Australia?",
+      "type": "multiple_choice",
+      "options": [
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian cricketer holds the record for the most Test runs scored?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Ricky Ponting"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne suburb is home to the famous St Kilda Pier penguin colony?",
+      "type": "multiple_choice",
+      "options": [
+        "St Kilda",
+        "Brighton",
+        "Port Melbourne"
+      ],
+      "answer": "St Kilda"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of Victoria's premier multi-day hiking trail through the Grampians, Twelve Apostles, and Great Otway regions?",
+      "type": "multiple_choice",
+      "options": [
+        "Great Ocean Walk",
+        "Overland Track",
+        "Bibbulmun Track"
+      ],
+      "answer": "Great Ocean Walk"
+    }
+  ]
+}
