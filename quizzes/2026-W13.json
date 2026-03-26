@@ -1,0 +1,233 @@
+{
+  "week": "2026-W13",
+  "generated": "2026-03-27T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What literary detective lived at 221B Baker Street?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "id": 5,
+      "question": "Which country is the world's largest producer of coffee?",
+      "type": "multiple_choice",
+      "options": [
+        "Colombia",
+        "Vietnam",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest bone in the human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Stapes"
+    },
+    {
+      "id": 7,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 8,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 9,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 10,
+      "question": "What ancient wonder of the world was located in Alexandria, Egypt?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Lighthouse of Alexandria"
+    },
+    {
+      "id": 11,
+      "question": "Which board game features properties like Boardwalk and Park Place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 12,
+      "question": "What type of celestial object is Halley's?",
+      "type": "multiple_choice",
+      "options": [
+        "Asteroid",
+        "Comet",
+        "Meteor"
+      ],
+      "answer": "Comet"
+    },
+    {
+      "id": 13,
+      "question": "The UN Human Rights Council began its 2026 spring session in Geneva this week. In which country is Geneva located?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Switzerland"
+    },
+    {
+      "id": 14,
+      "question": "Which international organization recently warned of escalating food insecurity in Sudan amid the ongoing civil conflict?",
+      "type": "multiple_choice",
+      "options": [
+        "World Food Programme",
+        "UNICEF",
+        "World Health Organization"
+      ],
+      "answer": "World Food Programme"
+    },
+    {
+      "id": 15,
+      "question": "The 2026 FIFA World Cup is set to be hosted across three North American countries. Which three?",
+      "type": "open_text",
+      "options": [],
+      "answer": "USA, Canada, Mexico"
+    },
+    {
+      "id": 16,
+      "question": "Which European country's parliament faced a no-confidence vote this past week amid disputes over energy policy?",
+      "type": "multiple_choice",
+      "options": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": 17,
+      "question": "Tech giant Apple recently announced plans for a new AI research hub in which Asian city?",
+      "type": "multiple_choice",
+      "options": [
+        "Tokyo",
+        "Singapore",
+        "Seoul"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "id": 18,
+      "question": "Which global climate summit is scheduled for late 2026, following COP30 in Belém, Brazil?",
+      "type": "open_text",
+      "options": [],
+      "answer": "COP31"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the iconic rock formation in the Northern Territory sacred to the Aṉangu people?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Uluru"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory recently announced a major expansion of its renewable energy target to 95% by 2030?",
+      "type": "multiple_choice",
+      "options": [
+        "South Australia",
+        "Tasmania",
+        "ACT"
+      ],
+      "answer": "South Australia"
+    },
+    {
+      "id": 21,
+      "question": "The Australian Federal Budget for 2026-27 is typically delivered in which month?",
+      "type": "multiple_choice",
+      "options": [
+        "March",
+        "May",
+        "August"
+      ],
+      "answer": "May"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian cricketer holds the record for the most Test centuries?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Ricky Ponting"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for fresh produce and deli goods?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne train station is the busiest in Australia by patronage?",
+      "type": "multiple_choice",
+      "options": [
+        "Southern Cross",
+        "Flinders Street",
+        "Melbourne Central"
+      ],
+      "answer": "Flinders Street"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra Valley, located east of Melbourne, is best known for producing which type of wine?",
+      "type": "multiple_choice",
+      "options": [
+        "Shiraz",
+        "Pinot Noir",
+        "Cabernet Sauvignon"
+      ],
+      "answer": "Pinot Noir"
+    }
+  ]
+}
