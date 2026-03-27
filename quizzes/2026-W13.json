@@ -33,201 +33,201 @@
     },
     {
       "id": 4,
-      "question": "What literary detective lived at 221B Baker Street?",
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
       "type": "open_text",
       "options": [],
-      "answer": "Sherlock Holmes"
+      "answer": "Gabriel García Márquez"
     },
     {
       "id": 5,
-      "question": "Which country is the world's largest producer of coffee?",
-      "type": "multiple_choice",
-      "options": [
-        "Colombia",
-        "Vietnam",
-        "Brazil"
-      ],
-      "answer": "Brazil"
+      "question": "What is the smallest country in the world by area?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Vatican City"
     },
     {
       "id": 6,
-      "question": "What is the smallest bone in the human body?",
-      "type": "open_text",
-      "options": [],
-      "answer": "Stapes"
+      "question": "Which musical instrument has 47 strings and 7 pedals?",
+      "type": "multiple_choice",
+      "options": [
+        "Harp",
+        "Harpsichord",
+        "Zither"
+      ],
+      "answer": "Harp"
     },
     {
       "id": 7,
-      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
-      "type": "multiple_choice",
-      "options": [
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "René Magritte"
-      ],
-      "answer": "Salvador Dalí"
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Poseidon"
     },
     {
       "id": 8,
-      "question": "What does the acronym NATO stand for?",
+      "question": "What does the acronym OPEC stand for?",
       "type": "open_text",
       "options": [],
-      "answer": "North Atlantic Treaty Organization"
+      "answer": "Organization of the Petroleum Exporting Countries"
     },
     {
       "id": 9,
-      "question": "In music, how many semitones are in an octave?",
+      "question": "Which element has the highest melting point?",
       "type": "multiple_choice",
       "options": [
-        "10",
-        "12",
-        "14"
+        "Tungsten",
+        "Carbon",
+        "Rhenium"
       ],
-      "answer": "12"
+      "answer": "Carbon"
     },
     {
       "id": 10,
-      "question": "What ancient wonder of the world was located in Alexandria, Egypt?",
-      "type": "open_text",
-      "options": [],
-      "answer": "Lighthouse of Alexandria"
+      "question": "How many time zones does Russia span?",
+      "type": "multiple_choice",
+      "options": [
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": "11"
     },
     {
       "id": 11,
-      "question": "Which board game features properties like Boardwalk and Park Place?",
+      "question": "What is the name of the longest bone in the human body?",
       "type": "open_text",
       "options": [],
-      "answer": "Monopoly"
+      "answer": "Femur"
     },
     {
       "id": 12,
-      "question": "What type of celestial object is Halley's?",
+      "question": "Which classic board game features properties like Mayfair and Park Lane?",
       "type": "multiple_choice",
       "options": [
-        "Asteroid",
-        "Comet",
-        "Meteor"
+        "Monopoly",
+        "Cluedo",
+        "Risk"
       ],
-      "answer": "Comet"
+      "answer": "Monopoly"
     },
     {
       "id": 13,
-      "question": "The UN Human Rights Council began its 2026 spring session in Geneva this week. In which country is Geneva located?",
-      "type": "open_text",
-      "options": [],
-      "answer": "Switzerland"
+      "question": "Which country assumed the presidency of the Council of the European Union for the first half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Netherlands",
+        "Hungary",
+        "Sweden"
+      ],
+      "answer": "Netherlands"
     },
     {
       "id": 14,
-      "question": "Which international organization recently warned of escalating food insecurity in Sudan amid the ongoing civil conflict?",
-      "type": "multiple_choice",
-      "options": [
-        "World Food Programme",
-        "UNICEF",
-        "World Health Organization"
-      ],
-      "answer": "World Food Programme"
+      "question": "The 2026 FIFA World Cup is being hosted across three countries. Name any one of them.",
+      "type": "open_text",
+      "options": [],
+      "answer": "USA, Canada, or Mexico"
     },
     {
       "id": 15,
-      "question": "The 2026 FIFA World Cup is set to be hosted across three North American countries. Which three?",
-      "type": "open_text",
-      "options": [],
-      "answer": "USA, Canada, Mexico"
+      "question": "Which international organisation recently released its Spring 2026 global economic outlook warning of slowing growth in emerging markets?",
+      "type": "multiple_choice",
+      "options": [
+        "IMF",
+        "World Bank",
+        "OECD"
+      ],
+      "answer": "IMF"
     },
     {
       "id": 16,
-      "question": "Which European country's parliament faced a no-confidence vote this past week amid disputes over energy policy?",
+      "question": "Which European country has been in the news this week over renewed debates about expanding nuclear energy capacity?",
       "type": "multiple_choice",
       "options": [
         "France",
         "Germany",
-        "Italy"
+        "Poland"
       ],
       "answer": "France"
     },
     {
       "id": 17,
-      "question": "Tech giant Apple recently announced plans for a new AI research hub in which Asian city?",
-      "type": "multiple_choice",
-      "options": [
-        "Tokyo",
-        "Singapore",
-        "Seoul"
-      ],
-      "answer": "Singapore"
+      "question": "What major global climate summit is scheduled for late 2026 in which Australian city?",
+      "type": "open_text",
+      "options": [],
+      "answer": "No city confirmed yet"
     },
     {
       "id": 18,
-      "question": "Which global climate summit is scheduled for late 2026, following COP30 in Belém, Brazil?",
-      "type": "open_text",
-      "options": [],
-      "answer": "COP31"
+      "question": "Which tech company made headlines this past week by announcing a breakthrough in quantum computing with a 1000+ qubit processor?",
+      "type": "multiple_choice",
+      "options": [
+        "Google",
+        "IBM",
+        "Microsoft"
+      ],
+      "answer": "IBM"
     },
     {
       "id": 19,
-      "question": "What is the name of the iconic rock formation in the Northern Territory sacred to the Aṉangu people?",
+      "question": "What is the name of the desert that covers a large part of central Australia?",
       "type": "open_text",
       "options": [],
-      "answer": "Uluru"
+      "answer": "Simpson Desert"
     },
     {
       "id": 20,
-      "question": "Which Australian state or territory recently announced a major expansion of its renewable energy target to 95% by 2030?",
+      "question": "Which Australian state or territory has the smallest population?",
       "type": "multiple_choice",
       "options": [
-        "South Australia",
         "Tasmania",
-        "ACT"
+        "Northern Territory",
+        "Australian Capital Territory"
       ],
-      "answer": "South Australia"
+      "answer": "Northern Territory"
     },
     {
       "id": 21,
-      "question": "The Australian Federal Budget for 2026-27 is typically delivered in which month?",
-      "type": "multiple_choice",
-      "options": [
-        "March",
-        "May",
-        "August"
-      ],
-      "answer": "May"
+      "question": "In 2026, which AFL team relocated its home ground after decades at its previous venue, making Australian sports news?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Tasmania Devils"
     },
     {
       "id": 22,
-      "question": "Which Australian cricketer holds the record for the most Test centuries?",
+      "question": "What is the name of the iconic Great Ocean Road rock formation consisting of limestone stacks off the coast of Victoria?",
       "type": "open_text",
       "options": [],
-      "answer": "Ricky Ponting"
+      "answer": "Twelve Apostles"
     },
     {
       "id": 23,
-      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for fresh produce and deli goods?",
+      "question": "Which Melbourne suburb is famous for its Greek precinct along Lonsdale Street?",
+      "type": "multiple_choice",
+      "options": [
+        "Carlton",
+        "Melbourne CBD",
+        "Footscray"
+      ],
+      "answer": "Melbourne CBD"
+    },
+    {
+      "id": 24,
+      "question": "What is the name of Melbourne's oldest continuously operating market, established in 1878?",
       "type": "open_text",
       "options": [],
       "answer": "Queen Victoria Market"
     },
     {
-      "id": 24,
-      "question": "Which Melbourne train station is the busiest in Australia by patronage?",
-      "type": "multiple_choice",
-      "options": [
-        "Southern Cross",
-        "Flinders Street",
-        "Melbourne Central"
-      ],
-      "answer": "Flinders Street"
-    },
-    {
       "id": 25,
-      "question": "The Yarra Valley, located east of Melbourne, is best known for producing which type of wine?",
+      "question": "Which river runs through the centre of Melbourne?",
       "type": "multiple_choice",
       "options": [
-        "Shiraz",
-        "Pinot Noir",
-        "Cabernet Sauvignon"
+        "Yarra River",
+        "Murray River",
+        "Maribyrnong River"
       ],
-      "answer": "Pinot Noir"
+      "answer": "Yarra River"
     }
   ]
 }
