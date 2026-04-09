@@ -1,0 +1,233 @@
+{
+  "week": "2026-W15",
+  "generated": "2026-04-10T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Johannes Vermeer"
+    },
+    {
+      "id": 5,
+      "question": "What is the longest river in Africa?",
+      "type": "multiple_choice",
+      "options": [
+        "Congo",
+        "Nile",
+        "Zambezi"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "id": 6,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 7,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "open_text",
+      "options": [],
+      "answer": "France"
+    },
+    {
+      "id": 8,
+      "question": "What type of animal is a mandrill?",
+      "type": "multiple_choice",
+      "options": [
+        "Ape",
+        "Monkey",
+        "Lemur"
+      ],
+      "answer": "Monkey"
+    },
+    {
+      "id": 9,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 10,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 11,
+      "question": "Which element has the highest melting point?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Carbon",
+        "Rhenium"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "id": 12,
+      "question": "In what decade was the first FIFA World Cup held?",
+      "type": "multiple_choice",
+      "options": [
+        "1920s",
+        "1930s",
+        "1940s"
+      ],
+      "answer": "1930s"
+    },
+    {
+      "id": 13,
+      "question": "The United Nations General Assembly voted this week on a resolution addressing which ongoing global crisis involving artificial intelligence regulation?",
+      "type": "multiple_choice",
+      "options": [
+        "AI in autonomous weapons",
+        "AI deepfake regulation",
+        "AI workplace displacement"
+      ],
+      "answer": "AI in autonomous weapons"
+    },
+    {
+      "id": 14,
+      "question": "Which country's parliamentary elections in early April 2026 resulted in a surprise coalition government being formed this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "South Korea"
+    },
+    {
+      "id": 15,
+      "question": "The World Health Organization declared an end to which disease outbreak in Central Africa this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Mpox",
+        "Marburg virus",
+        "Ebola"
+      ],
+      "answer": "Mpox"
+    },
+    {
+      "id": 16,
+      "question": "Which major tech company announced a landmark antitrust settlement with the EU Commission this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Google",
+        "Meta"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "id": 17,
+      "question": "NASA's Artemis program reached a new milestone this week. What was it?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Artemis III crew announcement"
+    },
+    {
+      "id": 18,
+      "question": "Which world leader made a high-profile diplomatic visit to Kyiv this past week to discuss reconstruction aid?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Emmanuel Macron"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the iconic Australian rock formation also known as Uluru?",
+      "type": "multiple_choice",
+      "options": [
+        "Ayers Rock",
+        "Kings Canyon",
+        "Devils Marbles"
+      ],
+      "answer": "Ayers Rock"
+    },
+    {
+      "id": 20,
+      "question": "The Australian federal government this week announced a major investment in which renewable energy sector in Queensland?",
+      "type": "multiple_choice",
+      "options": [
+        "Green hydrogen",
+        "Offshore wind",
+        "Solar thermal"
+      ],
+      "answer": "Green hydrogen"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian state or territory has the smallest population?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Australian Capital Territory"
+    },
+    {
+      "id": 22,
+      "question": "The Reserve Bank of Australia held its April 2026 meeting this week. What did it decide on the cash rate?",
+      "type": "multiple_choice",
+      "options": [
+        "Cut by 0.25%",
+        "Held steady",
+        "Raised by 0.25%"
+      ],
+      "answer": "Held steady"
+    },
+    {
+      "id": 23,
+      "question": "Which famous Melbourne laneway is known for its street art and graffiti and is a major tourist attraction?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 24,
+      "question": "The Melbourne International Comedy Festival, running during this week, is held primarily at which iconic venue?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne Town Hall",
+        "The Forum",
+        "Arts Centre Melbourne"
+      ],
+      "answer": "Melbourne Town Hall"
+    },
+    {
+      "id": 25,
+      "question": "Which river runs through the centre of Melbourne?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Yarra River"
+    }
+  ]
+}
