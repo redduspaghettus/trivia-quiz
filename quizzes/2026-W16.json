@@ -1,0 +1,229 @@
+{
+  "week": "2026-W16",
+  "generated": "2026-04-17T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the smallest country in the world by land area?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Vatican City"
+    },
+    {
+      "id": 6,
+      "question": "Which composer wrote 'The Four Seasons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Bach",
+        "Vivaldi",
+        "Mozart"
+      ],
+      "answer": "Vivaldi"
+    },
+    {
+      "id": 7,
+      "question": "In computing, what does 'URL' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "id": 8,
+      "question": "Which element has the highest melting point of all metals?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Titanium",
+        "Platinum"
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "id": 9,
+      "question": "What board game features properties like Boardwalk and Park Place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 10,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "multiple_choice",
+      "options": [
+        "Zeus",
+        "Poseidon",
+        "Hades"
+      ],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 11,
+      "question": "What language has the most native speakers in the world?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "id": 12,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "multiple_choice",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": 13,
+      "question": "Which nation announced it would host the 2026 UN Ocean Conservation Summit, confirmed in mid-April 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Portugal",
+        "Norway",
+        "Costa Rica"
+      ],
+      "answer": "Portugal"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup, being held across the US, Canada and Mexico, is set to kick off in June. How many teams will compete in the expanded tournament?",
+      "type": "multiple_choice",
+      "options": [
+        "32",
+        "40",
+        "48"
+      ],
+      "answer": "48"
+    },
+    {
+      "id": 15,
+      "question": "Which international body held an emergency session this week to address escalating tensions in the South China Sea?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations Security Council"
+    },
+    {
+      "id": 16,
+      "question": "Which European Central Bank action dominated financial headlines in April 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Raising interest rates",
+        "Cutting interest rates",
+        "Launching a digital euro"
+      ],
+      "answer": "Cutting interest rates"
+    },
+    {
+      "id": 17,
+      "question": "Which country's general election results were confirmed this week, resulting in a change of government for the first time in over a decade?",
+      "type": "open_text",
+      "options": [],
+      "answer": "South Korea"
+    },
+    {
+      "id": 18,
+      "question": "The World Health Organization declared which disease outbreak a 'public health emergency of international concern' in April 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Avian influenza"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "multiple_choice",
+      "options": [
+        "Murray River",
+        "Darling River",
+        "Murrumbidgee River"
+      ],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian city is set to host the 2032 Summer Olympic Games?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 21,
+      "question": "The Reserve Bank of Australia held its April 2026 meeting this week. What is Australia's central bank's key interest rate commonly called?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Cash rate"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian state or territory has the largest land area?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "New South Wales"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of the famous open-air market in Melbourne's inner north, known for its weekend arts, crafts, and food stalls?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne AFL team plays its home games at the MCG and is known as 'The Demons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne",
+        "Essendon",
+        "Carlton"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of the iconic coastal road in Victoria that stretches along the south-western coast and is one of Australia's most famous tourist drives?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Great Ocean Road"
+    }
+  ]
+}
