@@ -1,0 +1,233 @@
+{
+  "week": "2026-W17",
+  "generated": "2026-04-24T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for gold?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Au"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1907",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the longest river in Africa?",
+      "type": "multiple_choice",
+      "options": [
+        "Congo",
+        "Nile",
+        "Zambezi"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "id": 6,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 7,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "open_text",
+      "options": [],
+      "answer": "France"
+    },
+    {
+      "id": 8,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 9,
+      "question": "Which element has the atomic number 1?",
+      "type": "multiple_choice",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "id": 10,
+      "question": "What board game features properties like Park Place and Boardwalk?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 11,
+      "question": "Which Shakespeare play features the characters Oberon and Titania?",
+      "type": "multiple_choice",
+      "options": [
+        "The Tempest",
+        "A Midsummer Night's Dream",
+        "Twelfth Night"
+      ],
+      "answer": "A Midsummer Night's Dream"
+    },
+    {
+      "id": 12,
+      "question": "In which organ of the human body would you find the hippocampus?",
+      "type": "multiple_choice",
+      "options": [
+        "Heart",
+        "Brain",
+        "Liver"
+      ],
+      "answer": "Brain"
+    },
+    {
+      "id": 13,
+      "question": "Which world leader made headlines this week by announcing a major new climate initiative at the G7 preparatory summit in Berlin?",
+      "type": "multiple_choice",
+      "options": [
+        "Emmanuel Macron",
+        "Olaf Scholz's successor Friedrich Merz",
+        "Keir Starmer"
+      ],
+      "answer": "Friedrich Merz"
+    },
+    {
+      "id": 14,
+      "question": "A devastating earthquake struck which country's southern coast this week, prompting international aid efforts?",
+      "type": "multiple_choice",
+      "options": [
+        "Turkey",
+        "Philippines",
+        "Chile"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "id": 15,
+      "question": "Which tech company announced a major breakthrough in quantum computing this week, claiming to have achieved a new qubit stability record?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Google"
+    },
+    {
+      "id": 16,
+      "question": "The UN Security Council voted this week on a resolution concerning which ongoing geopolitical conflict?",
+      "type": "multiple_choice",
+      "options": [
+        "Ukraine-Russia",
+        "Sudan civil war",
+        "Israel-Palestine"
+      ],
+      "answer": "Sudan civil war"
+    },
+    {
+      "id": 17,
+      "question": "Which country officially became the newest member of the BRICS economic bloc this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Indonesia"
+    },
+    {
+      "id": 18,
+      "question": "NASA's Artemis IV mission made news this week for achieving what milestone?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Successful launch"
+    },
+    {
+      "id": 19,
+      "question": "Australia's ANZAC Day falls on which date each year?",
+      "type": "open_text",
+      "options": [],
+      "answer": "April 25"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory has the largest land area?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "New South Wales"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 21,
+      "question": "The Australian federal government this week announced a new policy targeting which economic issue ahead of the upcoming budget?",
+      "type": "multiple_choice",
+      "options": [
+        "Housing affordability",
+        "Mining tax reform",
+        "University fees"
+      ],
+      "answer": "Housing affordability"
+    },
+    {
+      "id": 22,
+      "question": "Which AFL team is nicknamed 'The Magpies' and plays home games at the MCG?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Collingwood"
+    },
+    {
+      "id": 23,
+      "question": "The ANZAC Day march in Melbourne traditionally proceeds along which major street?",
+      "type": "multiple_choice",
+      "options": [
+        "Bourke Street",
+        "St Kilda Road",
+        "Collins Street"
+      ],
+      "answer": "St Kilda Road"
+    },
+    {
+      "id": 24,
+      "question": "Which famous Melbourne market, established in 1878, is the largest open-air market in the Southern Hemisphere?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 25,
+      "question": "Melbourne's Flinders Street Station clocks are a famous meeting landmark. The phrase 'I'll meet you under the clocks' refers to clocks showing departure times for which type of transport?",
+      "type": "multiple_choice",
+      "options": [
+        "Trams",
+        "Trains",
+        "Buses"
+      ],
+      "answer": "Trains"
+    }
+  ]
+}
