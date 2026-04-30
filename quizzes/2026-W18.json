@@ -1,0 +1,233 @@
+{
+  "week": "2026-W18",
+  "generated": "2026-05-01T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country's flag features a cedar tree?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Lebanon"
+    },
+    {
+      "id": 7,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 8,
+      "question": "Which ancient wonder was located in the city of Babylon?",
+      "type": "multiple_choice",
+      "options": [
+        "Colossus of Rhodes",
+        "Hanging Gardens",
+        "Lighthouse of Alexandria"
+      ],
+      "answer": "Hanging Gardens"
+    },
+    {
+      "id": 9,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 10,
+      "question": "Which sport uses the terms 'love', 'deuce', and 'advantage'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Tennis"
+    },
+    {
+      "id": 11,
+      "question": "The Strait of Malacca separates the Malay Peninsula from which island?",
+      "type": "multiple_choice",
+      "options": [
+        "Borneo",
+        "Sumatra",
+        "Java"
+      ],
+      "answer": "Sumatra"
+    },
+    {
+      "id": 12,
+      "question": "What type of animal is a 'barramundi'?",
+      "type": "multiple_choice",
+      "options": [
+        "Fish",
+        "Snake",
+        "Bird"
+      ],
+      "answer": "Fish"
+    },
+    {
+      "id": 13,
+      "question": "Which world leader made headlines this week by announcing a major new climate initiative targeting net-zero shipping emissions by 2035?",
+      "type": "multiple_choice",
+      "options": [
+        "Ursula von der Leyen",
+        "Keir Starmer",
+        "António Guterres"
+      ],
+      "answer": "António Guterres"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 Met Gala was held this week in New York. In which museum is the Met Gala traditionally hosted?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Metropolitan Museum of Art"
+    },
+    {
+      "id": 15,
+      "question": "Which country this week celebrated its accession as the newest member of the OECD?",
+      "type": "multiple_choice",
+      "options": [
+        "Indonesia",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": "Indonesia"
+    },
+    {
+      "id": 16,
+      "question": "International Workers' Day, widely observed on May 1st this week, is also known by what other name?",
+      "type": "open_text",
+      "options": [],
+      "answer": "May Day"
+    },
+    {
+      "id": 17,
+      "question": "Which tech company made global headlines this week after announcing a record-breaking quarterly revenue exceeding $130 billion?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Alphabet"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "id": 18,
+      "question": "The WHO issued warnings this week about a resurgence of which infectious disease in Southeast Asia?",
+      "type": "multiple_choice",
+      "options": [
+        "Dengue fever",
+        "Measles",
+        "Cholera"
+      ],
+      "answer": "Measles"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national parliament building, located in Canberra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Parliament House"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian city is set to host the 2032 Summer Olympic Games?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 21,
+      "question": "The Australian federal budget for 2026-27 was a major topic this week. Who is the current Australian Treasurer?",
+      "type": "multiple_choice",
+      "options": [
+        "Jim Chalmers",
+        "Josh Frydenberg",
+        "Wayne Swan"
+      ],
+      "answer": "Jim Chalmers"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian rock formation, sacred to the Anangu people, was formerly known as Ayers Rock?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Uluru"
+    },
+    {
+      "id": 23,
+      "question": "The Melbourne Cup is famously known as 'the race that stops a nation'. At which Melbourne racecourse is it held?",
+      "type": "multiple_choice",
+      "options": [
+        "Caulfield",
+        "Flemington",
+        "Moonee Valley"
+      ],
+      "answer": "Flemington"
+    },
+    {
+      "id": 24,
+      "question": "Which famous Melbourne laneway is renowned for its ever-changing street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of the river that runs through central Melbourne?",
+      "type": "multiple_choice",
+      "options": [
+        "Yarra River",
+        "Murray River",
+        "Maribyrnong River"
+      ],
+      "answer": "Yarra River"
+    }
+  ]
+}
