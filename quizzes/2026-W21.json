@@ -1,0 +1,233 @@
+{
+  "week": "2026-W21",
+  "generated": "2026-05-22T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What novel begins with the line 'Call me Ishmael'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Moby-Dick"
+    },
+    {
+      "id": 5,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest prime number?",
+      "type": "open_text",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "id": 7,
+      "question": "The currency 'baht' is used in which country?",
+      "type": "multiple_choice",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Cambodia"
+      ],
+      "answer": "Thailand"
+    },
+    {
+      "id": 8,
+      "question": "What gas makes up approximately 78% of Earth's atmosphere?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 9,
+      "question": "Which English king had six wives?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Henry VIII"
+    },
+    {
+      "id": 10,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 11,
+      "question": "What body of water separates Saudi Arabia from Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Red Sea"
+    },
+    {
+      "id": 12,
+      "question": "Which Shakespeare play features the characters Oberon and Titania?",
+      "type": "multiple_choice",
+      "options": [
+        "The Tempest",
+        "A Midsummer Night's Dream",
+        "Twelfth Night"
+      ],
+      "answer": "A Midsummer Night's Dream"
+    },
+    {
+      "id": 13,
+      "question": "The G7 summit held in late May 2026 is being hosted by which country?",
+      "type": "multiple_choice",
+      "options": [
+        "Canada",
+        "Germany",
+        "United States"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "id": 14,
+      "question": "Which country recently became the newest member to formally join the European Union accession negotiations in May 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Ukraine",
+        "Moldova",
+        "Serbia"
+      ],
+      "answer": "Ukraine"
+    },
+    {
+      "id": 15,
+      "question": "Which major tech company announced a record-breaking AI chip this week, challenging Nvidia's dominance?",
+      "type": "multiple_choice",
+      "options": [
+        "AMD",
+        "Google",
+        "Microsoft"
+      ],
+      "answer": "AMD"
+    },
+    {
+      "id": 16,
+      "question": "The 2026 FIFA World Cup is being co-hosted by the United States, Mexico, and which other country?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 17,
+      "question": "Which international organization held its annual assembly in Geneva this week, focusing on pandemic preparedness treaties?",
+      "type": "open_text",
+      "options": [],
+      "answer": "World Health Organization"
+    },
+    {
+      "id": 18,
+      "question": "Tensions escalated this week in the South China Sea between China and which Southeast Asian nation over disputed reefs?",
+      "type": "multiple_choice",
+      "options": [
+        "Vietnam",
+        "Philippines",
+        "Malaysia"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "multiple_choice",
+      "options": [
+        "Murray River",
+        "Darling River",
+        "Murrumbidgee River"
+      ],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "The Australian federal budget for 2026-27, recently delivered, focused heavily on cost-of-living relief. Who is the current Treasurer?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jim Chalmers"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian state or territory has the smallest population?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Australian Capital Territory"
+    },
+    {
+      "id": 22,
+      "question": "Which AFL club is nicknamed 'The Swans'?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Brisbane",
+        "Gold Coast"
+      ],
+      "answer": "Sydney"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, established in 1878, located on the edge of the CBD?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne-based AFL club plays its home games at the Holden Centre and Marvel Stadium, and is known as 'The Big Freeze' charity match host?",
+      "type": "multiple_choice",
+      "options": [
+        "Collingwood",
+        "Melbourne",
+        "Essendon"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne before emptying into which bay?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
