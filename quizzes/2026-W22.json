@@ -1,0 +1,233 @@
+{
+  "week": "2026-W22",
+  "generated": "2026-05-29T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "In what year did the Titanic sink?",
+      "type": "open_text",
+      "options": [],
+      "answer": "1912"
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical symbol for gold?",
+      "type": "multiple_choice",
+      "options": [
+        "Go",
+        "Au",
+        "Gd"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the longest river in Africa?",
+      "type": "multiple_choice",
+      "options": [
+        "Congo River",
+        "Nile River",
+        "Zambezi River"
+      ],
+      "answer": "Nile River"
+    },
+    {
+      "id": 6,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 7,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "open_text",
+      "options": [],
+      "answer": "France"
+    },
+    {
+      "id": 8,
+      "question": "What type of animal is a 'Blue Ring' variety found in Australian waters?",
+      "type": "multiple_choice",
+      "options": [
+        "Jellyfish",
+        "Octopus",
+        "Sea snake"
+      ],
+      "answer": "Octopus"
+    },
+    {
+      "id": 9,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 10,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 11,
+      "question": "Which element has the highest melting point?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Carbon",
+        "Osmium"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "id": 12,
+      "question": "In Greek mythology, who was forced to push a boulder up a hill for eternity?",
+      "type": "multiple_choice",
+      "options": [
+        "Tantalus",
+        "Sisyphus",
+        "Prometheus"
+      ],
+      "answer": "Sisyphus"
+    },
+    {
+      "id": 13,
+      "question": "Which world leader made headlines this week by announcing a major new climate initiative ahead of the 2026 UN Climate Summit?",
+      "type": "multiple_choice",
+      "options": [
+        "António Guterres",
+        "Ursula von der Leyen",
+        "Keir Starmer"
+      ],
+      "answer": "António Guterres"
+    },
+    {
+      "id": 14,
+      "question": "Which country hosted the G7 summit that concluded this past week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 15,
+      "question": "The 2026 FIFA World Cup co-hosted by the US, Canada, and Mexico is approaching. Which city was confirmed this week as hosting the opening match?",
+      "type": "multiple_choice",
+      "options": [
+        "Mexico City",
+        "New York",
+        "Los Angeles"
+      ],
+      "answer": "Mexico City"
+    },
+    {
+      "id": 16,
+      "question": "Which tech company announced a major new AI partnership with the European Union this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 17,
+      "question": "Negotiations between which two nations made progress on a ceasefire agreement this past week, drawing international attention?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Russia and Ukraine"
+    },
+    {
+      "id": 18,
+      "question": "Which international sporting event's qualifying rounds dominated headlines across Asia this week?",
+      "type": "multiple_choice",
+      "options": [
+        "2026 FIFA World Cup",
+        "2028 Olympics",
+        "Asian Games"
+      ],
+      "answer": "2026 FIFA World Cup"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national anthem?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Advance Australia Fair"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory recently announced a major investment in renewable hydrogen production this May?",
+      "type": "multiple_choice",
+      "options": [
+        "Western Australia",
+        "Queensland",
+        "South Australia"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 21,
+      "question": "The Australian federal budget for 2026-27 was a major topic this week. Who is the current Treasurer of Australia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jim Chalmers"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian animal appears on the Australian coat of arms alongside the kangaroo?",
+      "type": "multiple_choice",
+      "options": [
+        "Koala",
+        "Emu",
+        "Platypus"
+      ],
+      "answer": "Emu"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, established in 1878, that is a popular weekend destination?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne AFL club plays its home games at the MCG and is known as 'The Demons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne",
+        "Essendon",
+        "Carlton"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne. Into which bay does it empty?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
