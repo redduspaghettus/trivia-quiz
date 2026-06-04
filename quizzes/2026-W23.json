@@ -1,0 +1,233 @@
+{
+  "week": "2026-W23",
+  "generated": "2026-06-05T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 5,
+      "question": "What is the smallest country in the world by land area?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Vatican City"
+    },
+    {
+      "id": 6,
+      "question": "Which instrument has 47 strings and 7 foot pedals?",
+      "type": "multiple_choice",
+      "options": [
+        "Harpsichord",
+        "Harp",
+        "Zither"
+      ],
+      "answer": "Harp"
+    },
+    {
+      "id": 7,
+      "question": "The Strait of Malacca separates the Malay Peninsula from which island?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Sumatra"
+    },
+    {
+      "id": 8,
+      "question": "What does the acronym 'OPEC' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Organization of the Petroleum Exporting Countries"
+    },
+    {
+      "id": 9,
+      "question": "In Greek mythology, who was the god of wine and festivity?",
+      "type": "multiple_choice",
+      "options": [
+        "Apollo",
+        "Dionysus",
+        "Hermes"
+      ],
+      "answer": "Dionysus"
+    },
+    {
+      "id": 10,
+      "question": "Which bone is the longest in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Tibia",
+        "Humerus",
+        "Femur"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "id": 11,
+      "question": "What programming language was created by Guido van Rossum in 1991?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Python"
+    },
+    {
+      "id": 12,
+      "question": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
+      "type": "multiple_choice",
+      "options": [
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 13,
+      "question": "Which world leader made headlines this week by announcing a surprise summit meeting with China's president?",
+      "type": "multiple_choice",
+      "options": [
+        "US President",
+        "French President",
+        "Indian Prime Minister"
+      ],
+      "answer": "US President"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup kicks off this month. Which three countries are co-hosting the tournament?",
+      "type": "open_text",
+      "options": [],
+      "answer": "USA, Canada, and Mexico"
+    },
+    {
+      "id": 15,
+      "question": "Which European country reported record-breaking heatwave temperatures this week, surpassing 40°C in early June?",
+      "type": "multiple_choice",
+      "options": [
+        "Spain",
+        "Greece",
+        "Italy"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "id": 16,
+      "question": "The UN General Assembly voted this week on a resolution related to which ongoing global conflict?",
+      "type": "multiple_choice",
+      "options": [
+        "Ukraine-Russia",
+        "Sudan civil war",
+        "Myanmar civil war"
+      ],
+      "answer": "Ukraine-Russia"
+    },
+    {
+      "id": 17,
+      "question": "Which tech company announced a major new AI partnership with a leading healthcare provider this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "answer": "Google"
+    },
+    {
+      "id": 18,
+      "question": "Which Pacific Island nation declared a climate emergency this week, calling for urgent international aid?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Tuvalu"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national anthem?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Advance Australia Fair"
+    },
+    {
+      "id": 20,
+      "question": "The Australian federal government this week announced a major investment in which renewable energy sector?",
+      "type": "multiple_choice",
+      "options": [
+        "Offshore wind",
+        "Nuclear energy",
+        "Hydrogen"
+      ],
+      "answer": "Offshore wind"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian city is known as the 'River City'?",
+      "type": "multiple_choice",
+      "options": [
+        "Brisbane",
+        "Perth",
+        "Adelaide"
+      ],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the large desert that covers much of central Australia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Great Victoria Desert"
+    },
+    {
+      "id": 23,
+      "question": "Which famous Melbourne laneway is renowned for its street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 24,
+      "question": "The Melbourne Cup horse race is held on the first Tuesday of which month?",
+      "type": "multiple_choice",
+      "options": [
+        "October",
+        "November",
+        "December"
+      ],
+      "answer": "November"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of Melbourne's main suburban rail loop project currently under construction, aiming to connect suburbs without going through the CBD?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Suburban Rail Loop"
+    }
+  ]
+}
