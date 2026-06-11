@@ -1,0 +1,233 @@
+{
+  "week": "2026-W24",
+  "generated": "2026-06-12T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 5,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "multiple_choice",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Eyck"
+      ],
+      "answer": "Vermeer"
+    },
+    {
+      "id": 6,
+      "question": "What is the square root of 256?",
+      "type": "open_text",
+      "options": [],
+      "answer": "16"
+    },
+    {
+      "id": 7,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "multiple_choice",
+      "options": [
+        "Egypt",
+        "Jordan",
+        "Lebanon"
+      ],
+      "answer": "Jordan"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 10,
+      "question": "What type of animal is a dugong?",
+      "type": "multiple_choice",
+      "options": [
+        "Marine mammal",
+        "Reptile",
+        "Fish"
+      ],
+      "answer": "Marine mammal"
+    },
+    {
+      "id": 11,
+      "question": "Which element has the highest melting point?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Carbon",
+        "Osmium"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "id": 12,
+      "question": "What does the Latin phrase 'carpe diem' translate to in English?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Seize the day"
+    },
+    {
+      "id": 13,
+      "question": "Which country assumed the rotating presidency of the Council of the European Union for the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Spain",
+        "Denmark"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup, co-hosted by the USA, Mexico, and Canada, kicked off this week. In which US city was the opening ceremony held?",
+      "type": "multiple_choice",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Mexico City"
+      ],
+      "answer": "Mexico City"
+    },
+    {
+      "id": 15,
+      "question": "Which major international climate summit is being prepared for late 2026, with pre-negotiation talks making headlines this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "COP31"
+    },
+    {
+      "id": 16,
+      "question": "Tensions escalated this week in the South China Sea between China and which Southeast Asian nation over disputed reef territories?",
+      "type": "multiple_choice",
+      "options": [
+        "Vietnam",
+        "Philippines",
+        "Malaysia"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "id": 17,
+      "question": "Which European central bank signaled a further interest rate cut this week amid slowing eurozone inflation?",
+      "type": "open_text",
+      "options": [],
+      "answer": "European Central Bank"
+    },
+    {
+      "id": 18,
+      "question": "The G7 leaders' summit held this week took place in which country?",
+      "type": "multiple_choice",
+      "options": [
+        "United States",
+        "Germany",
+        "Canada"
+      ],
+      "answer": "United States"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national domestic violence hotline, which received a record number of calls reported this week?",
+      "type": "open_text",
+      "options": [],
+      "answer": "1800RESPECT"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state recently announced a major investment in renewable hydrogen production hubs?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "South Australia"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 21,
+      "question": "How many states and territories make up Australia?",
+      "type": "multiple_choice",
+      "options": [
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the iconic Australian spread made from brewer's yeast extract?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Vegemite"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, established in 1878, that is one of the largest in the Southern Hemisphere?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne AFL club plays its home games at the MCG and is nicknamed 'The Demons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne",
+        "Essendon",
+        "Richmond"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne before emptying into which bay?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
