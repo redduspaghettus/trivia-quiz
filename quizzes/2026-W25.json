@@ -1,0 +1,229 @@
+{
+  "week": "2026-W25",
+  "generated": "2026-06-19T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which country would you find the ancient city of Petra?",
+      "type": "multiple_choice",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Lebanon"
+      ],
+      "answer": "Jordan"
+    },
+    {
+      "id": 4,
+      "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "multiple_choice",
+      "options": [
+        "Hamlet",
+        "Macbeth",
+        "Othello"
+      ],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 7,
+      "question": "In music, how many semitones are in a perfect fifth interval?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Seven"
+    },
+    {
+      "id": 8,
+      "question": "What year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 9,
+      "question": "Which element has the highest melting point of all elements?",
+      "type": "multiple_choice",
+      "options": [
+        "Tungsten",
+        "Carbon",
+        "Rhenium"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "id": 10,
+      "question": "What is the capital of Mongolia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Ulaanbaatar"
+    },
+    {
+      "id": 11,
+      "question": "Which board game features properties like Mayfair and Park Lane in its original UK version?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 12,
+      "question": "How many time zones does Russia span?",
+      "type": "multiple_choice",
+      "options": [
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": "11"
+    },
+    {
+      "id": 13,
+      "question": "Which country assumed the rotating presidency of the Council of the European Union for the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Portugal",
+        "Sweden"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup, co-hosted by the USA, Mexico, and Canada, is set to kick off this month. How many nations are competing in this expanded tournament?",
+      "type": "open_text",
+      "options": [],
+      "answer": "48"
+    },
+    {
+      "id": 15,
+      "question": "Which major international summit focused on global AI governance made headlines this week?",
+      "type": "multiple_choice",
+      "options": [
+        "G7 AI Summit in Rome",
+        "UN AI Safety Summit in Geneva",
+        "OECD Digital Forum in Paris"
+      ],
+      "answer": "UN AI Safety Summit in Geneva"
+    },
+    {
+      "id": 16,
+      "question": "As summer solstice approaches in the Northern Hemisphere this week (June 2026), what astronomical event does it mark?",
+      "type": "multiple_choice",
+      "options": [
+        "Longest day of the year",
+        "Shortest day of the year",
+        "Equal day and night"
+      ],
+      "answer": "Longest day of the year"
+    },
+    {
+      "id": 17,
+      "question": "Which country recently announced new climate targets ahead of the upcoming COP31 summit to be held in Australia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "India"
+    },
+    {
+      "id": 18,
+      "question": "The ongoing Russia-Ukraine conflict saw renewed diplomatic talks this week brokered primarily by which international figure?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Pope Francis"
+    },
+    {
+      "id": 19,
+      "question": "Australia is set to co-host COP31 in late 2026. Which city will serve as the primary venue?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 20,
+      "question": "What is the name of Australia's longest river?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Murray River"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian state or territory has the smallest population?",
+      "type": "multiple_choice",
+      "options": [
+        "Northern Territory",
+        "Tasmania",
+        "Australian Capital Territory"
+      ],
+      "answer": "Northern Territory"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian marsupial is sometimes called a 'native bear' despite not being a bear at all?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Koala"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for its fresh produce and diverse food stalls?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Victorian regional city, located about 100 km west of Melbourne, was a major centre during the 1850s gold rush?",
+      "type": "multiple_choice",
+      "options": [
+        "Ballarat",
+        "Geelong",
+        "Shepparton"
+      ],
+      "answer": "Ballarat"
+    },
+    {
+      "id": 25,
+      "question": "Melbourne's Flinders Street Station is one of Australia's busiest rail stations. On which river does it sit alongside?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Yarra River"
+    }
+  ]
+}
