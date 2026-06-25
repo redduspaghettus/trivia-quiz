@@ -1,0 +1,229 @@
+{
+  "week": "2026-W26",
+  "generated": "2026-06-28T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel '1984'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "George Orwell"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jordan"
+    },
+    {
+      "id": 7,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 10,
+      "question": "What is the capital city of Mongolia?",
+      "type": "multiple_choice",
+      "options": [
+        "Ulaanbaatar",
+        "Bishkek",
+        "Astana"
+      ],
+      "answer": "Ulaanbaatar"
+    },
+    {
+      "id": 11,
+      "question": "Which board game features properties like Mayfair and Park Lane?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 12,
+      "question": "What type of animal is a 'dugong'?",
+      "type": "multiple_choice",
+      "options": [
+        "Marine mammal",
+        "Reptile",
+        "Amphibian"
+      ],
+      "answer": "Marine mammal"
+    },
+    {
+      "id": 13,
+      "question": "The 2026 FIFA World Cup, co-hosted by the USA, Mexico, and Canada, is currently underway. Which city hosted the opening match of the tournament?",
+      "type": "multiple_choice",
+      "options": [
+        "Mexico City",
+        "New York",
+        "Los Angeles"
+      ],
+      "answer": "Mexico City"
+    },
+    {
+      "id": 14,
+      "question": "As the World Cup group stages conclude in late June 2026, which country is the defending champion from the 2022 tournament?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Argentina"
+    },
+    {
+      "id": 15,
+      "question": "Which international summit of world leaders took place in late June 2026, continuing discussions on global economic cooperation?",
+      "type": "multiple_choice",
+      "options": [
+        "G7 Summit",
+        "G20 Summit",
+        "APEC Summit"
+      ],
+      "answer": "G7 Summit"
+    },
+    {
+      "id": 16,
+      "question": "The European Union has been advancing AI regulation in 2026. What is the name of the EU's landmark artificial intelligence legislation?",
+      "type": "open_text",
+      "options": [],
+      "answer": "EU AI Act"
+    },
+    {
+      "id": 17,
+      "question": "Which space agency successfully launched its Artemis III crewed lunar mission, aiming to return humans to the Moon's surface?",
+      "type": "multiple_choice",
+      "options": [
+        "NASA",
+        "ESA",
+        "CNSA"
+      ],
+      "answer": "NASA"
+    },
+    {
+      "id": 18,
+      "question": "As the northern hemisphere enters summer 2026, record-breaking heatwaves have been reported across which continent for the second consecutive year?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Europe"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national anthem?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Advance Australia Fair"
+    },
+    {
+      "id": 20,
+      "question": "As of mid-2026, who is the Prime Minister of Australia?",
+      "type": "multiple_choice",
+      "options": [
+        "Anthony Albanese",
+        "Peter Dutton",
+        "Jim Chalmers"
+      ],
+      "answer": "Anthony Albanese"
+    },
+    {
+      "id": 21,
+      "question": "The end of the Australian financial year falls on June 30. What date does the new financial year begin?",
+      "type": "open_text",
+      "options": [],
+      "answer": "July 1"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian city is set to host the 2032 Summer Olympic Games?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Brisbane",
+        "Melbourne"
+      ],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, operating since 1878, known for fresh produce and diverse food stalls?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which famous Melbourne Cup horse race is held annually at which racecourse?",
+      "type": "multiple_choice",
+      "options": [
+        "Flemington",
+        "Caulfield",
+        "Moonee Valley"
+      ],
+      "answer": "Flemington"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne. Into which bay does it empty?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
