@@ -1,0 +1,233 @@
+{
+  "week": "2026-W27",
+  "generated": "2026-07-05T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In Greek mythology, who flew too close to the sun with wings made of wax and feathers?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Icarus"
+    },
+    {
+      "id": 4,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "multiple_choice",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which composer wrote 'The Four Seasons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Bach",
+        "Vivaldi",
+        "Mozart"
+      ],
+      "answer": "Vivaldi"
+    },
+    {
+      "id": 7,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 8,
+      "question": "In which year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 9,
+      "question": "What type of animal is a 'Blue Ringed' variety found in Australian waters, known for being extremely venomous?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Octopus"
+    },
+    {
+      "id": 10,
+      "question": "Which African country was formerly known as Abyssinia?",
+      "type": "multiple_choice",
+      "options": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia"
+      ],
+      "answer": "Ethiopia"
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Diamond"
+    },
+    {
+      "id": 12,
+      "question": "Which famous artist painted the ceiling of the Sistine Chapel?",
+      "type": "multiple_choice",
+      "options": [
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 13,
+      "question": "The 2026 FIFA World Cup, co-hosted by the USA, Mexico, and Canada, is currently underway. Which city is hosting the final?",
+      "type": "multiple_choice",
+      "options": [
+        "New York/New Jersey",
+        "Los Angeles",
+        "Dallas"
+      ],
+      "answer": "New York/New Jersey"
+    },
+    {
+      "id": 14,
+      "question": "As the World Cup knockout stages progress in early July 2026, which country is the defending champion from the 2022 tournament?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Argentina"
+    },
+    {
+      "id": 15,
+      "question": "Which international organization held its annual summit in late June 2026, with climate finance and AI governance high on the agenda?",
+      "type": "multiple_choice",
+      "options": [
+        "G7",
+        "G20",
+        "BRICS"
+      ],
+      "answer": "G7"
+    },
+    {
+      "id": 16,
+      "question": "With the US midterm election cycle heating up in mid-2026, who is the current Vice President of the United States?",
+      "type": "open_text",
+      "options": [],
+      "answer": "JD Vance"
+    },
+    {
+      "id": 17,
+      "question": "The European Union has been advancing new regulations on artificial intelligence in 2026. What is the name of the landmark EU AI legislation?",
+      "type": "open_text",
+      "options": [],
+      "answer": "EU AI Act"
+    },
+    {
+      "id": 18,
+      "question": "Wimbledon 2026 commenced this week. In which London borough is the All England Lawn Tennis Club located?",
+      "type": "multiple_choice",
+      "options": [
+        "Merton",
+        "Wandsworth",
+        "Richmond"
+      ],
+      "answer": "Merton"
+    },
+    {
+      "id": 19,
+      "question": "Who is the current Prime Minister of Australia as of July 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Anthony Albanese"
+    },
+    {
+      "id": 20,
+      "question": "What is the name of the iconic Australian rock formation in the Northern Territory, sacred to the Anangu people?",
+      "type": "multiple_choice",
+      "options": [
+        "Uluru",
+        "Kata Tjuta",
+        "Kings Canyon"
+      ],
+      "answer": "Uluru"
+    },
+    {
+      "id": 21,
+      "question": "The Australian financial year ended on June 30. What date does the new Australian financial year begin?",
+      "type": "open_text",
+      "options": [],
+      "answer": "July 1"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian state or territory has the largest land area?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "New South Wales"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, established in 1878, famous for its fresh produce and deli goods?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne train station is the busiest in Australia by patronage and sits beneath the city centre?",
+      "type": "multiple_choice",
+      "options": [
+        "Flinders Street",
+        "Southern Cross",
+        "Melbourne Central"
+      ],
+      "answer": "Flinders Street"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne. Into which body of water does it empty?",
+      "type": "multiple_choice",
+      "options": [
+        "Port Phillip Bay",
+        "Bass Strait",
+        "Western Port"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
