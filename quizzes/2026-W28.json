@@ -1,0 +1,233 @@
+{
+  "week": "2026-W28",
+  "generated": "2026-07-10T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jordan"
+    },
+    {
+      "id": 7,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 10,
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "multiple_choice",
+      "options": [
+        "Diamond",
+        "Corundum",
+        "Topaz"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": 11,
+      "question": "Which board game features properties such as Boardwalk and Park Place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 12,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "multiple_choice",
+      "options": [
+        "Poseidon",
+        "Hades",
+        "Ares"
+      ],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 13,
+      "question": "Which country assumed the rotating presidency of the Council of the European Union for the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Portugal",
+        "Hungary"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup, jointly hosted by the USA, Canada, and which other country, is currently underway this July?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Mexico"
+    },
+    {
+      "id": 15,
+      "question": "Which global summit on artificial intelligence governance made headlines in early July 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Geneva AI Summit",
+        "Paris AI Safety Summit",
+        "Seoul AI Forum"
+      ],
+      "answer": "Geneva AI Summit"
+    },
+    {
+      "id": 16,
+      "question": "Which major central bank signaled a potential interest rate cut in its July 2026 policy meeting, making global markets rally?",
+      "type": "multiple_choice",
+      "options": [
+        "US Federal Reserve",
+        "European Central Bank",
+        "Bank of England"
+      ],
+      "answer": "European Central Bank"
+    },
+    {
+      "id": 17,
+      "question": "As of July 2026, which international organization has been leading negotiations on a global plastics treaty?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations"
+    },
+    {
+      "id": 18,
+      "question": "Which country experienced severe monsoon flooding in early July 2026, displacing millions?",
+      "type": "multiple_choice",
+      "options": [
+        "Bangladesh",
+        "Thailand",
+        "Vietnam"
+      ],
+      "answer": "Bangladesh"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national airline?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Qantas"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian city is set to host the 2032 Summer Olympic Games?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 21,
+      "question": "What is the name of the indigenous Australian wind instrument made from a hollowed-out tree trunk?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Didgeridoo"
+    },
+    {
+      "id": 22,
+      "question": "The Reserve Bank of Australia's cash rate target in mid-2026 has been a major discussion point. Who is the current RBA Governor?",
+      "type": "multiple_choice",
+      "options": [
+        "Philip Lowe",
+        "Michele Bullock",
+        "Glenn Stevens"
+      ],
+      "answer": "Michele Bullock"
+    },
+    {
+      "id": 23,
+      "question": "Which famous Melbourne laneway is renowned for its ever-changing street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne sports venue, the largest in the Southern Hemisphere, hosts the AFL Grand Final each year?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne Cricket Ground",
+        "Marvel Stadium",
+        "AAMI Park"
+      ],
+      "answer": "Melbourne Cricket Ground"
+    },
+    {
+      "id": 25,
+      "question": "Which river runs through the centre of Melbourne?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Yarra River"
+    }
+  ]
+}
