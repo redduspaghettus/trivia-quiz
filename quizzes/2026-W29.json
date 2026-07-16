@@ -1,0 +1,233 @@
+{
+  "week": "2026-W29",
+  "generated": "2026-07-17T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the largest organ in the human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Skin"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "type": "multiple_choice",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What element does the chemical symbol 'Au' represent?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gold"
+    },
+    {
+      "id": 5,
+      "question": "Which country has the longest coastline in the world?",
+      "type": "multiple_choice",
+      "options": [
+        "Australia",
+        "Canada",
+        "Indonesia"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "id": 6,
+      "question": "What is the name of the fictional country where the movie 'Black Panther' is set?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Wakanda"
+    },
+    {
+      "id": 7,
+      "question": "How many strings does a standard ukulele have?",
+      "type": "multiple_choice",
+      "options": [
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 8,
+      "question": "Which famous artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 9,
+      "question": "What gas makes up approximately 78% of Earth's atmosphere?",
+      "type": "multiple_choice",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 10,
+      "question": "In Greek mythology, who flew too close to the sun with wings made of feathers and wax?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Icarus"
+    },
+    {
+      "id": 11,
+      "question": "What is the capital of Portugal?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Lisbon"
+    },
+    {
+      "id": 12,
+      "question": "Which board game features properties like Boardwalk and Park Place?",
+      "type": "multiple_choice",
+      "options": [
+        "Monopoly",
+        "Risk",
+        "Clue"
+      ],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 13,
+      "question": "Which European city hosted an emergency summit on climate resilience financing in mid-July 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Brussels",
+        "Geneva",
+        "Berlin"
+      ],
+      "answer": "Brussels"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup is being hosted across three countries. Name any one of them.",
+      "type": "open_text",
+      "options": [],
+      "answer": "United States"
+    },
+    {
+      "id": 15,
+      "question": "Which country recently announced expanded naval patrols in the South China Sea, raising tensions in mid-July 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "China",
+        "Philippines",
+        "Vietnam"
+      ],
+      "answer": "China"
+    },
+    {
+      "id": 16,
+      "question": "Which international organisation celebrated its 81st anniversary in mid-July 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations"
+    },
+    {
+      "id": 17,
+      "question": "A record-breaking heatwave in July 2026 has impacted which region of the world most severely?",
+      "type": "multiple_choice",
+      "options": [
+        "Southern Europe",
+        "Southeast Asia",
+        "Central Africa"
+      ],
+      "answer": "Southern Europe"
+    },
+    {
+      "id": 18,
+      "question": "Which tech company made headlines in July 2026 for unveiling a new generation AI assistant rivalling major competitors?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Apple"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national airline?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Qantas"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory recently proposed raising the age of criminal responsibility to 14?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Australian Capital Territory",
+        "New South Wales"
+      ],
+      "answer": "Australian Capital Territory"
+    },
+    {
+      "id": 21,
+      "question": "What is the Great Barrier Reef's UNESCO World Heritage status?",
+      "type": "multiple_choice",
+      "options": [
+        "World Heritage Site",
+        "Biosphere Reserve",
+        "Global Geopark"
+      ],
+      "answer": "World Heritage Site"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian Rules football team is nicknamed 'The Magpies' and plays home games at the MCG?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Collingwood"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878?",
+      "type": "multiple_choice",
+      "options": [
+        "Queen Victoria Market",
+        "South Melbourne Market",
+        "Prahran Market"
+      ],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which river runs through the centre of Melbourne?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Yarra River"
+    },
+    {
+      "id": 25,
+      "question": "Melbourne's Suburban Rail Loop is a major infrastructure project. Which was the first section to begin construction?",
+      "type": "multiple_choice",
+      "options": [
+        "SRL East",
+        "SRL North",
+        "SRL West"
+      ],
+      "answer": "SRL East"
+    }
+  ]
+}
