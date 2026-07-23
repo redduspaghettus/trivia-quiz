@@ -1,0 +1,229 @@
+{
+  "week": "2026-W30",
+  "generated": "2026-07-24T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which author wrote the novel 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Large intestine"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jordan"
+    },
+    {
+      "id": 7,
+      "question": "What musical key is commonly known as the 'saddest key'?",
+      "type": "multiple_choice",
+      "options": [
+        "D minor",
+        "B minor",
+        "A minor"
+      ],
+      "answer": "D minor"
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the process by which plants convert sunlight into energy?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 9,
+      "question": "Which board game features properties like Boardwalk and Park Place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Monopoly"
+    },
+    {
+      "id": 10,
+      "question": "The Strait of Malacca separates the Malay Peninsula from which island?",
+      "type": "multiple_choice",
+      "options": [
+        "Borneo",
+        "Sumatra",
+        "Java"
+      ],
+      "answer": "Sumatra"
+    },
+    {
+      "id": 11,
+      "question": "How many time zones does Russia span?",
+      "type": "multiple_choice",
+      "options": [
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": "11"
+    },
+    {
+      "id": 12,
+      "question": "What type of animal is a Komodo dragon?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Lizard"
+    },
+    {
+      "id": 13,
+      "question": "The 2026 FIFA World Cup is being co-hosted by the United States, Mexico, and which other country?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 14,
+      "question": "Which nation is set to hold the rotating presidency of the Council of the European Union during the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Czech Republic",
+        "Portugal"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 15,
+      "question": "As the northern hemisphere enters peak summer in late July 2026, which major international sporting event is drawing global attention in North America?",
+      "type": "multiple_choice",
+      "options": [
+        "2026 FIFA World Cup",
+        "2026 Summer Olympics",
+        "Tour de France"
+      ],
+      "answer": "2026 FIFA World Cup"
+    },
+    {
+      "id": 16,
+      "question": "Which global organisation celebrated its 81st anniversary in late June 2026 after being founded in San Francisco in 1945?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations"
+    },
+    {
+      "id": 17,
+      "question": "The 2026 Tour de France traditionally finishes in which city?",
+      "type": "multiple_choice",
+      "options": [
+        "Lyon",
+        "Paris",
+        "Nice"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "id": 18,
+      "question": "In July 2026, tensions continue in which body of water over disputed territorial claims involving China, the Philippines, and Vietnam?",
+      "type": "open_text",
+      "options": [],
+      "answer": "South China Sea"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the world's largest coral reef system, located off the coast of Queensland?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian city hosted the 2000 Summer Olympic Games?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne",
+        "Sydney",
+        "Brisbane"
+      ],
+      "answer": "Sydney"
+    },
+    {
+      "id": 21,
+      "question": "Australia's winter season in July means the AFL season is in full swing. Which AFL team is known as the 'Swans'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Sydney"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian Prime Minister famously held the world record for sculling a yard glass of beer?",
+      "type": "multiple_choice",
+      "options": [
+        "Bob Hawke",
+        "Paul Keating",
+        "Gough Whitlam"
+      ],
+      "answer": "Bob Hawke"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, operating since 1878, famous for its fresh produce and deli halls?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne Cup-winning racecourse is located in the suburb of Flemington?",
+      "type": "multiple_choice",
+      "options": [
+        "Caulfield Racecourse",
+        "Flemington Racecourse",
+        "Moonee Valley Racecourse"
+      ],
+      "answer": "Flemington Racecourse"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne before emptying into which bay?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
