@@ -1,0 +1,233 @@
+{
+  "week": "2026-W31",
+  "generated": "2026-07-31T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the largest organ in the human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Skin"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "type": "multiple_choice",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1920"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What chemical element has the symbol 'Au'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gold"
+    },
+    {
+      "id": 5,
+      "question": "Which artist painted the ceiling of the Sistine Chapel?",
+      "type": "multiple_choice",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael"
+      ],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 6,
+      "question": "What is the capital city of Thailand?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Bangkok"
+    },
+    {
+      "id": 7,
+      "question": "How many strings does a standard ukulele have?",
+      "type": "multiple_choice",
+      "options": [
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 8,
+      "question": "Which Shakespeare play features the characters Oberon and Titania?",
+      "type": "open_text",
+      "options": [],
+      "answer": "A Midsummer Night's Dream"
+    },
+    {
+      "id": 9,
+      "question": "What unit of measurement is used to express the intensity of sound?",
+      "type": "multiple_choice",
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Watt"
+      ],
+      "answer": "Decibel"
+    },
+    {
+      "id": 10,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "multiple_choice",
+      "options": [
+        "Quartz",
+        "Diamond",
+        "Topaz"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": 12,
+      "question": "Which country has won the most FIFA World Cup titles as of 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brazil"
+    },
+    {
+      "id": 13,
+      "question": "Which country is hosting the 2026 FIFA Club World Cup final rounds this summer?",
+      "type": "multiple_choice",
+      "options": [
+        "United States",
+        "Qatar",
+        "Saudi Arabia"
+      ],
+      "answer": "United States"
+    },
+    {
+      "id": 14,
+      "question": "The UN Security Council held emergency sessions this week regarding escalating tensions in which region?",
+      "type": "multiple_choice",
+      "options": [
+        "East Africa",
+        "Middle East",
+        "South China Sea"
+      ],
+      "answer": "Middle East"
+    },
+    {
+      "id": 15,
+      "question": "Which European country recently announced plans to expand its high-speed rail network with a new cross-border link to a neighbouring nation?",
+      "type": "multiple_choice",
+      "options": [
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "id": 16,
+      "question": "NASA's Artemis program is preparing for its next crewed lunar mission. What is the name of the spacecraft that will carry astronauts to the Moon?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Orion"
+    },
+    {
+      "id": 17,
+      "question": "Which tech company made headlines this week after announcing a major acquisition in the artificial intelligence sector?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Google"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 18,
+      "question": "The World Health Organization issued a new advisory this week regarding the spread of which infectious disease in Southeast Asia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Dengue fever"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "multiple_choice",
+      "options": [
+        "Murray River",
+        "Darling River",
+        "Murrumbidgee River"
+      ],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "The Australian federal government recently announced new funding for renewable energy projects. Which state is receiving the largest share for offshore wind development?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Victoria"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian city will host the 2032 Summer Olympic Games?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brisbane"
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the iconic Australian spread made from yeast extract that divides opinion around the world?",
+      "type": "multiple_choice",
+      "options": [
+        "Vegemite",
+        "Marmite",
+        "Promite"
+      ],
+      "answer": "Vegemite"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for its fresh produce and vibrant atmosphere?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne suburb is home to the famous Chapel Street shopping and dining precinct?",
+      "type": "multiple_choice",
+      "options": [
+        "Prahran",
+        "Fitzroy",
+        "Carlton"
+      ],
+      "answer": "Prahran"
+    },
+    {
+      "id": 25,
+      "question": "The Victorian town of Ballarat is historically famous for which 1854 uprising against government authority?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Eureka Stockade"
+    }
+  ]
+}
