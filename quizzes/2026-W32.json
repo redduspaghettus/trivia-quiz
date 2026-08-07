@@ -1,0 +1,237 @@
+{
+  "week": "2026-W32",
+  "generated": "2026-08-09T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Johannes Vermeer"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple_choice",
+      "options": [
+        "Liver",
+        "Skin",
+        "Lungs"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 6,
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Brazil"
+    },
+    {
+      "id": 7,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 8,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "multiple_choice",
+      "options": [
+        "Zeus",
+        "Poseidon",
+        "Hades"
+      ],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 9,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 10,
+      "question": "What is the capital city of Mongolia?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Ulaanbaatar"
+    },
+    {
+      "id": 11,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 12,
+      "question": "How many keys does a standard modern piano have?",
+      "type": "multiple_choice",
+      "options": [
+        "76",
+        "88",
+        "92"
+      ],
+      "answer": "88"
+    },
+    {
+      "id": 13,
+      "question": "Which world leaders met at the August 2026 ASEAN summit to discuss South China Sea tensions?",
+      "type": "multiple_choice",
+      "options": [
+        "US and China",
+        "Japan and Philippines",
+        "Multiple ASEAN member states"
+      ],
+      "answer": "Multiple ASEAN member states"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup is being co-hosted by the United States, Mexico, and which other country?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 15,
+      "question": "Which European city experienced record-breaking heatwaves in early August 2026, prompting emergency cooling centres?",
+      "type": "multiple_choice",
+      "options": [
+        "Madrid",
+        "Rome",
+        "Athens"
+      ],
+      "answer": "Rome"
+    },
+    {
+      "id": 16,
+      "question": "The UN General Assembly passed a resolution in August 2026 focused on regulating which emerging technology?",
+      "type": "multiple_choice",
+      "options": [
+        "Quantum computing",
+        "Artificial intelligence",
+        "Nuclear fusion"
+      ],
+      "answer": "Artificial intelligence"
+    },
+    {
+      "id": 17,
+      "question": "Which country assumed the rotating presidency of the European Union Council for the second half of 2026?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Finland"
+    },
+    {
+      "id": 18,
+      "question": "Global oil prices surged past what benchmark in the first week of August 2026 amid Middle East supply concerns?",
+      "type": "multiple_choice",
+      "options": [
+        "$90 per barrel",
+        "$100 per barrel",
+        "$110 per barrel"
+      ],
+      "answer": "$100 per barrel"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the iconic rock formation in the Northern Territory sacred to the Anangu people?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Uluru"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory announced a major renewable energy investment in early August 2026 targeting offshore wind farms?",
+      "type": "multiple_choice",
+      "options": [
+        "Victoria",
+        "Queensland",
+        "Western Australia"
+      ],
+      "answer": "Victoria"
+    },
+    {
+      "id": 21,
+      "question": "How many states and territories make up Australia?",
+      "type": "multiple_choice",
+      "options": [
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": 22,
+      "question": "Which Australian cricketer holds the record for the most Test runs scored?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Ricky Ponting"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of the famous open-air market in Melbourne that has operated since 1878?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne Cup-winning racecourse is located in the suburb of Flemington?",
+      "type": "multiple_choice",
+      "options": [
+        "Flemington Racecourse",
+        "Caulfield Racecourse",
+        "Moonee Valley Racecourse"
+      ],
+      "answer": "Flemington Racecourse"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne and empties into which body of water?",
+      "type": "multiple_choice",
+      "options": [
+        "Bass Strait",
+        "Port Phillip Bay",
+        "Tasman Sea"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
