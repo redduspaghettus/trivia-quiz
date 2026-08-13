@@ -1,0 +1,237 @@
+{
+  "week": "2026-W33",
+  "generated": "2026-08-14T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In Greek mythology, who flew too close to the sun with wings made of feathers and wax?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Icarus"
+    },
+    {
+      "id": 4,
+      "question": "What year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 5,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "multiple_choice",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Eyck"
+      ],
+      "answer": "Vermeer"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 7,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 8,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "type": "multiple_choice",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Netherlands"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": 9,
+      "question": "What does the acronym 'NATO' stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 11,
+      "question": "In which Shakespeare play does the character Prospero appear?",
+      "type": "open_text",
+      "options": [],
+      "answer": "The Tempest"
+    },
+    {
+      "id": 12,
+      "question": "What sport uses a shuttlecock?",
+      "type": "multiple_choice",
+      "options": [
+        "Badminton",
+        "Squash",
+        "Table Tennis"
+      ],
+      "answer": "Badminton"
+    },
+    {
+      "id": 13,
+      "question": "Which world leader made headlines this week by announcing a new climate finance initiative ahead of the September UN General Assembly?",
+      "type": "multiple_choice",
+      "options": [
+        "UN Secretary-General",
+        "French President",
+        "Chinese Premier"
+      ],
+      "answer": "UN Secretary-General"
+    },
+    {
+      "id": 14,
+      "question": "Which country experienced significant flooding in August 2026, displacing thousands of residents in its southern provinces?",
+      "type": "multiple_choice",
+      "options": [
+        "Pakistan",
+        "Bangladesh",
+        "Vietnam"
+      ],
+      "answer": "Bangladesh"
+    },
+    {
+      "id": 15,
+      "question": "The 2026 FIFA World Cup is being hosted across three countries. Name any one of them.",
+      "type": "open_text",
+      "options": [],
+      "answer": "United States"
+    },
+    {
+      "id": 16,
+      "question": "Which tech company announced a major new AI partnership with European regulators this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Google",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 17,
+      "question": "The European Central Bank signaled this week it may take what action at its September meeting regarding interest rates?",
+      "type": "multiple_choice",
+      "options": [
+        "Raise rates",
+        "Cut rates",
+        "Hold rates steady"
+      ],
+      "answer": "Cut rates"
+    },
+    {
+      "id": 18,
+      "question": "Which international organization celebrated its 81st anniversary this week, having been founded in August 1945?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Murray River"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory has the smallest population?",
+      "type": "multiple_choice",
+      "options": [
+        "Tasmania",
+        "Northern Territory",
+        "Australian Capital Territory"
+      ],
+      "answer": "Northern Territory"
+    },
+    {
+      "id": 21,
+      "question": "Australia's Reserve Bank held its August 2026 meeting this week. What is the RBA's primary mandate?",
+      "type": "multiple_choice",
+      "options": [
+        "Full employment",
+        "Price stability and full employment",
+        "Economic growth"
+      ],
+      "answer": "Price stability and full employment"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian animal appears on the Australian coat of arms alongside the kangaroo?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Emu"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for fresh produce and deli goods?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne AFL club plays its home games at the Melbourne Cricket Ground and is known as the 'Demons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Melbourne",
+        "Essendon",
+        "Collingwood"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne and empties into which body of water?",
+      "type": "multiple_choice",
+      "options": [
+        "Bass Strait",
+        "Port Phillip Bay",
+        "Tasman Sea"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
