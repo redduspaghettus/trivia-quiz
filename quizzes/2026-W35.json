@@ -1,0 +1,233 @@
+{
+  "week": "2026-W35",
+  "generated": "2026-08-28T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for gold?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Au"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "type": "multiple_choice",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1920"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What is the longest river in the world?",
+      "type": "multiple_choice",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "id": 5,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": 6,
+      "question": "What is the square root of 144?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 7,
+      "question": "Which country has the most natural lakes?",
+      "type": "multiple_choice",
+      "options": [
+        "Canada",
+        "Finland",
+        "Russia"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "What type of animal is a Komodo dragon?",
+      "type": "multiple_choice",
+      "options": [
+        "Lizard",
+        "Snake",
+        "Crocodilian"
+      ],
+      "answer": "Lizard"
+    },
+    {
+      "id": 10,
+      "question": "Which author wrote 'One Hundred Years of Solitude'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Diamond"
+    },
+    {
+      "id": 12,
+      "question": "Which element has the atomic number 1?",
+      "type": "multiple_choice",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "id": 13,
+      "question": "Which country assumed the rotating presidency of the Council of the European Union for the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Czech Republic",
+        "Portugal"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup, co-hosted by the USA, Mexico, and Canada, is being held during which months?",
+      "type": "multiple_choice",
+      "options": [
+        "May–June",
+        "June–July",
+        "July–August"
+      ],
+      "answer": "June–July"
+    },
+    {
+      "id": 15,
+      "question": "Which international climate summit is scheduled to take place in late 2026 in Belém, Brazil?",
+      "type": "open_text",
+      "options": [],
+      "answer": "COP30"
+    },
+    {
+      "id": 16,
+      "question": "As of August 2026, who is the Secretary-General of the United Nations?",
+      "type": "open_text",
+      "options": [],
+      "answer": "António Guterres"
+    },
+    {
+      "id": 17,
+      "question": "Which Southeast Asian nation has been in the spotlight in August 2026 over escalating tensions in the South China Sea with China?",
+      "type": "multiple_choice",
+      "options": [
+        "Vietnam",
+        "Philippines",
+        "Malaysia"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "id": 18,
+      "question": "Which tech company has faced major antitrust rulings in both the US and EU throughout 2026, particularly regarding its search engine dominance?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Google"
+    },
+    {
+      "id": 19,
+      "question": "What is the capital city of Australia?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne"
+      ],
+      "answer": "Canberra"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian Prime Minister led the Labor Party to victory in the 2022 federal election?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Anthony Albanese"
+    },
+    {
+      "id": 21,
+      "question": "The Great Barrier Reef is located off the coast of which Australian state?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queensland"
+    },
+    {
+      "id": 22,
+      "question": "Which AFL team is nicknamed the Magpies and is based in Melbourne?",
+      "type": "multiple_choice",
+      "options": [
+        "Collingwood",
+        "Carlton",
+        "Richmond"
+      ],
+      "answer": "Collingwood"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, operating since 1878, known for fresh produce and deli goods?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which river runs through the centre of Melbourne?",
+      "type": "multiple_choice",
+      "options": [
+        "Murray River",
+        "Yarra River",
+        "Maribyrnong River"
+      ],
+      "answer": "Yarra River"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of Melbourne's major international airport?",
+      "type": "multiple_choice",
+      "options": [
+        "Tullamarine",
+        "Avalon",
+        "Essendon"
+      ],
+      "answer": "Tullamarine"
+    }
+  ]
+}
