@@ -1,0 +1,233 @@
+{
+  "week": "2026-W36",
+  "generated": "2026-09-04T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What literary detective lived at 221B Baker Street?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "id": 5,
+      "question": "Which country is the world's largest producer of coffee?",
+      "type": "multiple_choice",
+      "options": [
+        "Colombia",
+        "Vietnam",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 7,
+      "question": "Which artist painted 'Girl with a Pearl Earring'?",
+      "type": "multiple_choice",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Eyck"
+      ],
+      "answer": "Vermeer"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "What type of animal is a dugong?",
+      "type": "multiple_choice",
+      "options": [
+        "Marine mammal",
+        "Reptile",
+        "Fish"
+      ],
+      "answer": "Marine mammal"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 79?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gold"
+    },
+    {
+      "id": 11,
+      "question": "What is the capital city of Mongolia?",
+      "type": "multiple_choice",
+      "options": [
+        "Ulaanbaatar",
+        "Darkhan",
+        "Erdenet"
+      ],
+      "answer": "Ulaanbaatar"
+    },
+    {
+      "id": 12,
+      "question": "How many bones are in the adult human body?",
+      "type": "open_text",
+      "options": [],
+      "answer": "206"
+    },
+    {
+      "id": 13,
+      "question": "The 81st Venice International Film Festival awarded its Golden Lion in September 2026 for best film. In which city is the festival held?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Venice"
+    },
+    {
+      "id": 14,
+      "question": "Which international body held its General Assembly session opening in early September 2026 in New York?",
+      "type": "multiple_choice",
+      "options": [
+        "United Nations",
+        "NATO",
+        "World Trade Organization"
+      ],
+      "answer": "United Nations"
+    },
+    {
+      "id": 15,
+      "question": "The 2026 FIFA World Cup is being hosted across three countries. Which three nations are co-hosting?",
+      "type": "open_text",
+      "options": [],
+      "answer": "USA, Canada, Mexico"
+    },
+    {
+      "id": 16,
+      "question": "As of early September 2026, which country holds the presidency of the Council of the European Union?",
+      "type": "multiple_choice",
+      "options": [
+        "Czech Republic",
+        "Sweden",
+        "Luxembourg"
+      ],
+      "answer": "Czech Republic"
+    },
+    {
+      "id": 17,
+      "question": "In September 2026, world leaders continued to address the climate crisis ahead of COP31. In which country is COP31 scheduled to be held?",
+      "type": "multiple_choice",
+      "options": [
+        "Australia",
+        "Turkey",
+        "Colombia"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "id": 18,
+      "question": "Which global tech company faced renewed antitrust scrutiny in both the US and EU in early September 2026 over its dominance in online search?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Google"
+    },
+    {
+      "id": 19,
+      "question": "Australia is preparing to host COP31 in late 2026. Which Australian city has been selected as the host?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 20,
+      "question": "What is the name of Australia's national airline?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Qantas"
+    },
+    {
+      "id": 21,
+      "question": "Which AFL teams competed in the 2025 Grand Final, played at the MCG?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney and Brisbane",
+        "Geelong and Carlton",
+        "Collingwood and Sydney"
+      ],
+      "answer": "Sydney and Brisbane"
+    },
+    {
+      "id": 22,
+      "question": "What is the approximate population of Australia as of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "22 million",
+        "27 million",
+        "32 million"
+      ],
+      "answer": "27 million"
+    },
+    {
+      "id": 23,
+      "question": "Melbourne's iconic Flinders Street Station is located at the corner of Flinders Street and which other street?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Swanston Street"
+    },
+    {
+      "id": 24,
+      "question": "Which famous Melbourne laneway is renowned for its ever-changing street art and graffiti?",
+      "type": "multiple_choice",
+      "options": [
+        "Hosier Lane",
+        "Degraves Street",
+        "Hardware Lane"
+      ],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of the river that flows through central Melbourne?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Yarra River"
+    }
+  ]
+}
