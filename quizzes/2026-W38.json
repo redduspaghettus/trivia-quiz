@@ -1,0 +1,233 @@
+{
+  "week": "2026-W38",
+  "generated": "2026-09-18T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 5,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 6,
+      "question": "What is the square root of 256?",
+      "type": "open_text",
+      "options": [],
+      "answer": "16"
+    },
+    {
+      "id": 7,
+      "question": "Which country is the world's largest producer of coffee?",
+      "type": "multiple_choice",
+      "options": [
+        "Colombia",
+        "Vietnam",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 8,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "open_text",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 9,
+      "question": "What fictional country is Black Panther from?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Wakanda"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 11,
+      "question": "What is the capital city of Portugal?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Lisbon"
+    },
+    {
+      "id": 12,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "multiple_choice",
+      "options": [
+        "Zeus",
+        "Poseidon",
+        "Hades"
+      ],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 13,
+      "question": "The 81st session of the United Nations General Assembly opened its general debate this week. In which city is the UN headquarters located?",
+      "type": "open_text",
+      "options": [],
+      "answer": "New York"
+    },
+    {
+      "id": 14,
+      "question": "Which international summit on climate finance was held in mid-September 2026, drawing renewed pledges from major economies?",
+      "type": "multiple_choice",
+      "options": [
+        "COP31 Pre-Summit",
+        "UN Climate Finance Summit",
+        "G20 Green Forum"
+      ],
+      "answer": "UN Climate Finance Summit"
+    },
+    {
+      "id": 15,
+      "question": "Which country's national elections in September 2026 drew international attention amid concerns over democratic backsliding in Southeast Asia?",
+      "type": "multiple_choice",
+      "options": [
+        "Myanmar",
+        "Thailand",
+        "Philippines"
+      ],
+      "answer": "Myanmar"
+    },
+    {
+      "id": 16,
+      "question": "The 2026 Ryder Cup is being held this September. In which country is it taking place?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United States"
+    },
+    {
+      "id": 17,
+      "question": "Which major tech company announced a new AI regulation partnership with the European Union this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Google"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 18,
+      "question": "Hurricane season in the Atlantic has been particularly active in September 2026. Which ocean basin generates Atlantic hurricanes?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Atlantic Ocean"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national parliament building, opened in 1988 in Canberra?",
+      "type": "multiple_choice",
+      "options": [
+        "Parliament House",
+        "Federation Hall",
+        "Commonwealth House"
+      ],
+      "answer": "Parliament House"
+    },
+    {
+      "id": 20,
+      "question": "The 2026 AFL finals series is underway. How many teams compete in the AFL home-and-away season?",
+      "type": "open_text",
+      "options": [],
+      "answer": "18"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian state or territory recently announced expanded investment in renewable hydrogen production hubs?",
+      "type": "multiple_choice",
+      "options": [
+        "Western Australia",
+        "Queensland",
+        "South Australia"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the coral reef system off the coast of Queensland, the largest in the world?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "id": 23,
+      "question": "The Melbourne Cup is famously known as 'the race that stops a nation'. On which day of the week is it traditionally held?",
+      "type": "multiple_choice",
+      "options": [
+        "Saturday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "id": 24,
+      "question": "Which iconic Melbourne laneway is famous for its ever-changing street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of Melbourne's major commuter rail loop currently under construction, designed to connect the city's suburban rail network through new underground stations?",
+      "type": "multiple_choice",
+      "options": [
+        "Metro Tunnel",
+        "Suburban Rail Loop",
+        "City Loop Extension"
+      ],
+      "answer": "Suburban Rail Loop"
+    }
+  ]
+}
