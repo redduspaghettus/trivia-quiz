@@ -1,0 +1,233 @@
+{
+  "week": "2026-W39",
+  "generated": "2026-09-25T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the largest planet in our solar system?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 2,
+      "question": "Which element has the chemical symbol 'Au'?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Aluminium"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1905",
+        "1912",
+        "1918"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "What fictional detective lived at 221B Baker Street?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "id": 5,
+      "question": "Which country is home to the ancient city of Petra?",
+      "type": "multiple_choice",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Lebanon"
+      ],
+      "answer": "Jordan"
+    },
+    {
+      "id": 6,
+      "question": "What is the square root of 256?",
+      "type": "open_text",
+      "options": [],
+      "answer": "16"
+    },
+    {
+      "id": 7,
+      "question": "Which artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 8,
+      "question": "What is the capital city of New Zealand?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Wellington"
+    },
+    {
+      "id": 9,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 10,
+      "question": "Which organ in the human body produces insulin?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Pancreas"
+    },
+    {
+      "id": 11,
+      "question": "What language has the most native speakers in the world?",
+      "type": "multiple_choice",
+      "options": [
+        "English",
+        "Mandarin Chinese",
+        "Spanish"
+      ],
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "id": 12,
+      "question": "Which Shakespeare play features the characters Oberon and Titania?",
+      "type": "open_text",
+      "options": [],
+      "answer": "A Midsummer Night's Dream"
+    },
+    {
+      "id": 13,
+      "question": "The 81st session of the United Nations General Assembly is currently underway in New York. In which borough of New York City is the UN headquarters located?",
+      "type": "multiple_choice",
+      "options": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "answer": "Manhattan"
+    },
+    {
+      "id": 14,
+      "question": "Following recent escalations in the Middle East, which country launched a diplomatic peace initiative backed by the Arab League this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Saudi Arabia",
+        "Turkey",
+        "Egypt"
+      ],
+      "answer": "Saudi Arabia"
+    },
+    {
+      "id": 15,
+      "question": "As the European Union continues its push toward climate targets, what is the EU's target year for achieving carbon neutrality?",
+      "type": "open_text",
+      "options": [],
+      "answer": "2050"
+    },
+    {
+      "id": 16,
+      "question": "Which international organization celebrated its 81st anniversary in late September 2026, having been founded in 1945?",
+      "type": "open_text",
+      "options": [],
+      "answer": "United Nations"
+    },
+    {
+      "id": 17,
+      "question": "The 2026 Ryder Cup was held in the United States this September. In which state was the host course located?",
+      "type": "multiple_choice",
+      "options": [
+        "New York",
+        "Massachusetts",
+        "Connecticut"
+      ],
+      "answer": "New York"
+    },
+    {
+      "id": 18,
+      "question": "Which global tech company faced new antitrust hearings in Washington this week regarding its dominance in search and advertising?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Google"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of the reef system off the coast of Queensland that is the largest coral reef system in the world?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "id": 20,
+      "question": "As the AFL Grand Final takes place in late September, which Melbourne stadium traditionally hosts this event?",
+      "type": "multiple_choice",
+      "options": [
+        "Marvel Stadium",
+        "Melbourne Cricket Ground",
+        "AAMI Park"
+      ],
+      "answer": "Melbourne Cricket Ground"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian Prime Minister introduced the policy of 'New Federalism' in the 1970s?",
+      "type": "multiple_choice",
+      "options": [
+        "Gough Whitlam",
+        "Malcolm Fraser",
+        "Bob Hawke"
+      ],
+      "answer": "Gough Whitlam"
+    },
+    {
+      "id": 22,
+      "question": "What is the approximate population of Australia as of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "22 million",
+        "27 million",
+        "35 million"
+      ],
+      "answer": "27 million"
+    },
+    {
+      "id": 23,
+      "question": "Which famous Melbourne laneway is renowned for its vibrant street art and graffiti?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hosier Lane"
+    },
+    {
+      "id": 24,
+      "question": "The Yarra River flows through Melbourne. Into which body of water does the Yarra eventually empty?",
+      "type": "multiple_choice",
+      "options": [
+        "Bass Strait",
+        "Port Phillip Bay",
+        "Tasman Sea"
+      ],
+      "answer": "Port Phillip Bay"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of Melbourne's iconic open-air market, established in 1878, known for fresh produce, deli goods, and artisan products?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    }
+  ]
+}
