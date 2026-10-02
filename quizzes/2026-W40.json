@@ -1,0 +1,233 @@
+{
+  "week": "2026-W40",
+  "generated": "2026-10-02T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 2,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 3,
+      "question": "In which year did the Titanic sink?",
+      "type": "multiple_choice",
+      "options": [
+        "1910",
+        "1912",
+        "1914"
+      ],
+      "answer": "1912"
+    },
+    {
+      "id": 4,
+      "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 5,
+      "question": "Which country is the world's largest producer of coffee?",
+      "type": "multiple_choice",
+      "options": [
+        "Colombia",
+        "Vietnam",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 7,
+      "question": "In music, how many semitones are in an octave?",
+      "type": "multiple_choice",
+      "options": [
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 8,
+      "question": "Which author wrote the novel '1984'?",
+      "type": "open_text",
+      "options": [],
+      "answer": "George Orwell"
+    },
+    {
+      "id": 9,
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "multiple_choice",
+      "options": [
+        "Diamond",
+        "Titanium",
+        "Quartz"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": 10,
+      "question": "Which ancient wonder was located in the city of Babylon?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Hanging Gardens"
+    },
+    {
+      "id": 11,
+      "question": "What does the acronym NATO stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "id": 12,
+      "question": "Which element has the atomic number 79?",
+      "type": "multiple_choice",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 13,
+      "question": "The 2026 FIFA World Cup is being co-hosted by the United States, Mexico, and which other country?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 14,
+      "question": "Which international body held its 81st session of the General Assembly in late September 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "United Nations",
+        "World Trade Organization",
+        "European Union"
+      ],
+      "answer": "United Nations"
+    },
+    {
+      "id": 15,
+      "question": "As of early October 2026, which country holds the rotating presidency of the Council of the European Union?",
+      "type": "multiple_choice",
+      "options": [
+        "Czech Republic",
+        "Sweden",
+        "Hungary"
+      ],
+      "answer": "Czech Republic"
+    },
+    {
+      "id": 16,
+      "question": "In late September 2026, world leaders continued negotiations on a global treaty addressing which environmental issue?",
+      "type": "multiple_choice",
+      "options": [
+        "Plastic pollution",
+        "Deforestation",
+        "Ocean acidification"
+      ],
+      "answer": "Plastic pollution"
+    },
+    {
+      "id": 17,
+      "question": "Which major Asian economic summit was scheduled for October 2026, bringing together Pacific Rim leaders?",
+      "type": "open_text",
+      "options": [],
+      "answer": "APEC"
+    },
+    {
+      "id": 18,
+      "question": "The 2026 Nobel Prizes began being announced in early October. In which city are most Nobel Prizes awarded?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Stockholm"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's national anthem?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Advance Australia Fair"
+    },
+    {
+      "id": 20,
+      "question": "Which Australian state or territory is the largest by land area?",
+      "type": "multiple_choice",
+      "options": [
+        "Queensland",
+        "Western Australia",
+        "New South Wales"
+      ],
+      "answer": "Western Australia"
+    },
+    {
+      "id": 21,
+      "question": "The AFL Grand Final is traditionally held at which Melbourne stadium?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Melbourne Cricket Ground"
+    },
+    {
+      "id": 22,
+      "question": "Which iconic Australian reef system is a UNESCO World Heritage site stretching over 2,300 kilometres?",
+      "type": "multiple_choice",
+      "options": [
+        "Great Barrier Reef",
+        "Ningaloo Reef",
+        "Lord Howe Island"
+      ],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's famous open-air market, operating since 1878, known for its fresh produce and deli halls?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which river runs through the centre of Melbourne?",
+      "type": "multiple_choice",
+      "options": [
+        "Murray River",
+        "Yarra River",
+        "Maribyrnong River"
+      ],
+      "answer": "Yarra River"
+    },
+    {
+      "id": 25,
+      "question": "The Melbourne Cup horse race is traditionally held on the first Tuesday of which month?",
+      "type": "multiple_choice",
+      "options": [
+        "October",
+        "November",
+        "December"
+      ],
+      "answer": "November"
+    }
+  ]
+}
