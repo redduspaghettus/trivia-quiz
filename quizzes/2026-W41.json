@@ -1,0 +1,237 @@
+{
+  "week": "2026-W41",
+  "generated": "2026-10-09T12:00:00Z",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for tungsten?",
+      "type": "open_text",
+      "options": [],
+      "answer": "W"
+    },
+    {
+      "id": 2,
+      "question": "Which planet in our solar system has the most moons?",
+      "type": "multiple_choice",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 3,
+      "question": "In what year did the Berlin Wall fall?",
+      "type": "multiple_choice",
+      "options": [
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 4,
+      "question": "What is the longest river in Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Nile"
+    },
+    {
+      "id": 5,
+      "question": "Which famous artist painted 'The Persistence of Memory', featuring melting clocks?",
+      "type": "multiple_choice",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "id": 6,
+      "question": "What is the square root of 256?",
+      "type": "open_text",
+      "options": [],
+      "answer": "16"
+    },
+    {
+      "id": 7,
+      "question": "Which country is the world's largest producer of coffee?",
+      "type": "multiple_choice",
+      "options": [
+        "Colombia",
+        "Vietnam",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": 8,
+      "question": "In Greek mythology, who was the god of the sea?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Poseidon"
+    },
+    {
+      "id": 9,
+      "question": "What does the acronym NASA stand for?",
+      "type": "open_text",
+      "options": [],
+      "answer": "National Aeronautics and Space Administration"
+    },
+    {
+      "id": 10,
+      "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "type": "multiple_choice",
+      "options": [
+        "Macbeth",
+        "Hamlet",
+        "Othello"
+      ],
+      "answer": "Hamlet"
+    },
+    {
+      "id": 11,
+      "question": "What type of animal is a 'Portuguese Man o' War'?",
+      "type": "multiple_choice",
+      "options": [
+        "Jellyfish",
+        "Siphonophore",
+        "Octopus"
+      ],
+      "answer": "Siphonophore"
+    },
+    {
+      "id": 12,
+      "question": "Which element has the atomic number 79?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Gold"
+    },
+    {
+      "id": 13,
+      "question": "Which country assumed the rotating presidency of the Council of the European Union for the second half of 2026?",
+      "type": "multiple_choice",
+      "options": [
+        "Finland",
+        "Portugal",
+        "Hungary"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "id": 14,
+      "question": "The 2026 FIFA World Cup is being co-hosted by the United States, Mexico, and which other country?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Canada"
+    },
+    {
+      "id": 15,
+      "question": "Which international climate summit is scheduled to take place in late 2026, following COP30 in Belém?",
+      "type": "multiple_choice",
+      "options": [
+        "COP31 in Sydney",
+        "COP31 in Istanbul",
+        "COP31 in Nairobi"
+      ],
+      "answer": "COP31 in Sydney"
+    },
+    {
+      "id": 16,
+      "question": "Tensions in the South China Sea escalated this week after a maritime confrontation between China and which Southeast Asian nation?",
+      "type": "multiple_choice",
+      "options": [
+        "Vietnam",
+        "Philippines",
+        "Malaysia"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "id": 17,
+      "question": "Which UN agency released a new global food security report this week warning of rising hunger in the Horn of Africa?",
+      "type": "open_text",
+      "options": [],
+      "answer": "World Food Programme"
+    },
+    {
+      "id": 18,
+      "question": "Which major tech company announced significant new AI regulation compliance measures in the EU this week?",
+      "type": "multiple_choice",
+      "options": [
+        "Apple",
+        "Meta",
+        "Google"
+      ],
+      "answer": "Meta"
+    },
+    {
+      "id": 19,
+      "question": "What is the name of Australia's longest river system?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Murray-Darling"
+    },
+    {
+      "id": 20,
+      "question": "Australia is preparing to co-host COP31 in 2026. Which Australian city will serve as the primary venue?",
+      "type": "multiple_choice",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "answer": "Sydney"
+    },
+    {
+      "id": 21,
+      "question": "Which Australian state or territory recently announced expanded renewable energy targets aiming for 100% renewables by 2030?",
+      "type": "multiple_choice",
+      "options": [
+        "South Australia",
+        "Tasmania",
+        "Australian Capital Territory"
+      ],
+      "answer": "Australian Capital Territory"
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the indigenous Australian instrument made from a hollowed-out tree trunk?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Didgeridoo"
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Melbourne's iconic open-air market, operating since 1878, located on the edge of the CBD?",
+      "type": "open_text",
+      "options": [],
+      "answer": "Queen Victoria Market"
+    },
+    {
+      "id": 24,
+      "question": "Which Melbourne-based AFL team plays its home games at the MCG and is known as 'The Demons'?",
+      "type": "multiple_choice",
+      "options": [
+        "Essendon",
+        "Melbourne",
+        "Carlton"
+      ],
+      "answer": "Melbourne"
+    },
+    {
+      "id": 25,
+      "question": "The Yarra River flows through Melbourne and empties into which body of water?",
+      "type": "multiple_choice",
+      "options": [
+        "Bass Strait",
+        "Port Phillip Bay",
+        "Tasman Sea"
+      ],
+      "answer": "Port Phillip Bay"
+    }
+  ]
+}
